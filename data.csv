@@ -1,0 +1,1522 @@
+age_group,residence,education_level,ethnicity,wealth,occupation,cSection,place_of_delivery,atLeast8ANCvisits
+35-39,rural,primary,basotho,poorest,not working,no,Hospital/other facility,<8
+20-24,rural,secondary,basotho,poorer,not working,no,Hospital/other facility,<8
+20-24,rural,secondary,basotho,poorest,not working,no,Hospital/other facility,<8
+20-24,rural,secondary,basotho,poorer,not working,no,Hospital/other facility,<8
+20-24,rural,secondary,basotho,poorest,not working,no,Hospital/other facility,8/more
+20-24,rural,secondary,basotho,poorest,not working,yes,Hospital/other facility,<8
+35-39,rural,primary,basotho,poorest,not working,yes,Hospital/other facility,<8
+20-24,rural,primary,basotho,poorer,not working,no,Hospital/other facility,<8
+20-24,rural,secondary,basotho,middle,not working,no,Hospital/other facility,<8
+15-19,rural,secondary,basotho,poorest,not working,no,Hospital/other facility,<8
+35-39,rural,secondary,basotho,middle,not working,no,Hospital/other facility,8/more
+35-39,rural,primary,basotho,poorest,not working,no,Hospital/other facility,<8
+20-24,rural,secondary,basotho,poorer,not working,yes,Hospital/other facility,<8
+20-24,rural,secondary,basotho,poorer,not working,no,Hospital/other facility,<8
+15-19,rural,secondary,basotho,poorest,not working,yes,Hospital/other facility,<8
+35-39,rural,primary,basotho,poorer,not working,no,Hospital/other facility,<8
+30-34,rural,secondary,basotho,poorer,not working,yes,Hospital/other facility,<8
+20-24,rural,secondary,basotho,poorest,not working,no,Hospital/other facility,<8
+30-34,rural,primary,basotho,poorest,not working,no,Hospital/other facility,<8
+35-39,rural,secondary,basotho,poorer,not working,no,Hospital/other facility,<8
+20-24,rural,secondary,basotho,poorest,not working,yes,Hospital/other facility,<8
+35-39,rural,primary,basotho,poorest,not working,no,Hospital/other facility,<8
+15-19,rural,secondary,basotho,poorest,not working,no,Hospital/other facility,8/more
+15-19,rural,primary,basotho,poorest,not working,no,Hospital/other facility,8/more
+30-34,rural,secondary,basotho,middle,clerical,yes,Hospital/other facility,<8
+20-24,rural,secondary,basotho,middle,not working,no,Hospital/other facility,<8
+20-24,rural,secondary,basotho,poorer,sales,no,Hospital/other facility,<8
+30-34,rural,secondary,basotho,poorest,unskilled manual,no,Hospital/other facility,<8
+25-29,rural,secondary,basotho,poorer,agricultural - self employed,no,Hospital/other facility,8/more
+25-29,rural,secondary,basotho,middle,not working,no,Hospital/other facility,8/more
+20-24,rural,secondary,basotho,poorest,not working,no,Hospital/other facility,<8
+25-29,rural,secondary,basotho,poorest,not working,no,Hospital/other facility,<8
+20-24,rural,secondary,basotho,poorer,not working,no,Hospital/other facility,<8
+20-24,rural,secondary,basotho,poorer,not working,no,Hospital/other facility,<8
+20-24,rural,secondary,basotho,poorest,not working,yes,Hospital/other facility,<8
+15-19,rural,secondary,basotho,poorer,not working,no,Home,8/more
+25-29,rural,higher,basotho,richer,unskilled manual,yes,Hospital/other facility,<8
+15-19,rural,secondary,basotho,poorer,not working,no,Hospital/other facility,<8
+25-29,rural,secondary,basotho,middle,not working,no,Hospital/other facility,8/more
+15-19,rural,secondary,basotho,middle,not working,no,Hospital/other facility,<8
+20-24,rural,secondary,basotho,richer,not working,no,Hospital/other facility,<8
+25-29,rural,higher,basotho,middle,not working,no,Hospital/other facility,<8
+25-29,rural,secondary,basotho,middle,not working,no,Hospital/other facility,<8
+40-44,rural,secondary,basotho,richest,not working,no,Hospital/other facility,<8
+25-29,rural,secondary,basotho,poorest,not working,no,Hospital/other facility,<8
+20-24,rural,secondary,basotho,richer,not working,no,Hospital/other facility,<8
+25-29,rural,secondary,basotho,middle,not working,yes,Hospital/other facility,8/more
+20-24,rural,secondary,basotho,middle,not working,yes,Hospital/other facility,<8
+20-24,rural,secondary,basotho,poorest,not working,no,Hospital/other facility,<8
+20-24,rural,secondary,basotho,richer,sales,no,Hospital/other facility,<8
+25-29,rural,higher,basotho,richest,sales,yes,Hospital/other facility,8/more
+20-24,rural,secondary,basotho,richer,not working,no,Home,<8
+40-44,rural,secondary,basotho,middle,unskilled manual,yes,Hospital/other facility,8/more
+15-19,rural,secondary,basotho,richer,not working,no,Hospital/other facility,<8
+25-29,rural,secondary,basotho,poorest,not working,no,Hospital/other facility,8/more
+45-49,rural,secondary,basotho,poorest,unskilled manual,yes,Hospital/other facility,<8
+25-29,rural,secondary,basotho,middle,not working,yes,Hospital/other facility,8/more
+35-39,rural,higher,basotho,richer,not working,no,Hospital/other facility,<8
+35-39,rural,secondary,basotho,poorer,not working,no,Home,<8
+30-34,rural,secondary,basotho,richer,not working,no,Hospital/other facility,<8
+20-24,rural,secondary,basotho,poorer,not working,no,Hospital/other facility,8/more
+20-24,rural,secondary,basotho,poorer,not working,no,Hospital/other facility,<8
+15-19,rural,secondary,basotho,poorer,not working,no,Hospital/other facility,<8
+20-24,rural,secondary,basotho,middle,not working,no,Hospital/other facility,8/more
+20-24,rural,primary,basotho,poorest,not working,no,Hospital/other facility,8/more
+25-29,rural,secondary,basotho,poorer,sales,yes,Hospital/other facility,8/more
+30-34,rural,higher,basotho,poorer,unskilled manual,no,Hospital/other facility,<8
+20-24,rural,secondary,basotho,poorer,not working,no,Hospital/other facility,<8
+20-24,rural,secondary,basotho,poorer,not working,no,Hospital/other facility,8/more
+20-24,rural,secondary,basotho,poorest,unskilled manual,no,Hospital/other facility,<8
+15-19,rural,secondary,basotho,poorest,not working,no,Hospital/other facility,<8
+20-24,rural,secondary,basotho,poorer,sales,no,Hospital/other facility,<8
+20-24,rural,secondary,basotho,poorest,not working,no,Home,<8
+25-29,rural,primary,basotho,poorest,not working,yes,Hospital/other facility,<8
+25-29,rural,secondary,basotho,poorer,not working,no,Hospital/other facility,<8
+15-19,rural,primary,basotho,poorer,not working,no,Hospital/other facility,<8
+25-29,rural,primary,basotho,poorest,not working,no,Hospital/other facility,<8
+20-24,rural,secondary,basotho,poorest,not working,no,Hospital/other facility,<8
+25-29,rural,primary,basotho,poorest,not working,no,Hospital/other facility,<8
+15-19,rural,secondary,basotho,poorer,not working,no,Hospital/other facility,<8
+25-29,rural,primary,basotho,poorest,not working,yes,Hospital/other facility,<8
+30-34,rural,primary,basotho,poorest,unskilled manual,no,Hospital/other facility,<8
+20-24,rural,secondary,basotho,poorest,not working,no,Hospital/other facility,<8
+20-24,rural,primary,basotho,poorest,not working,no,Hospital/other facility,<8
+15-19,rural,secondary,basotho,poorest,not working,yes,Hospital/other facility,<8
+15-19,rural,primary,basotho,middle,not working,no,Hospital/other facility,<8
+20-24,rural,secondary,basotho,poorest,not working,no,Home,<8
+35-39,rural,primary,basotho,poorest,not working,no,Hospital/other facility,8/more
+25-29,rural,secondary,basotho,poorest,not working,no,Home,<8
+20-24,rural,secondary,basotho,poorest,unskilled manual,no,Home,8/more
+20-24,rural,secondary,basotho,poorest,unskilled manual,no,Hospital/other facility,<8
+15-19,rural,primary,basotho,poorest,not working,no,Hospital/other facility,<8
+40-44,rural,primary,basotho,poorer,unskilled manual,no,Hospital/other facility,<8
+30-34,rural,secondary,basotho,poorer,not working,no,Hospital/other facility,<8
+40-44,rural,primary,basotho,poorest,unskilled manual,no,Hospital/other facility,8/more
+35-39,rural,primary,basotho,middle,not working,yes,Hospital/other facility,<8
+20-24,rural,secondary,basotho,middle,not working,yes,Hospital/other facility,<8
+15-19,rural,secondary,basotho,richer,not working,no,Hospital/other facility,<8
+20-24,rural,secondary,basotho,richest,not working,no,Hospital/other facility,8/more
+25-29,rural,primary,basotho,poorer,not working,yes,Hospital/other facility,<8
+20-24,rural,secondary,basotho,richer,sales,no,Hospital/other facility,<8
+30-34,rural,secondary,basotho,middle,not working,yes,Hospital/other facility,<8
+20-24,rural,secondary,basotho,middle,not working,no,Hospital/other facility,8/more
+25-29,rural,secondary,basotho,poorest,not working,no,Hospital/other facility,<8
+35-39,rural,secondary,basotho,poorer,not working,yes,Hospital/other facility,8/more
+20-24,rural,higher,basotho,richer,not working,no,Hospital/other facility,<8
+25-29,rural,secondary,basotho,richer,not working,yes,Hospital/other facility,8/more
+15-19,rural,secondary,basotho,richer,not working,no,Hospital/other facility,<8
+40-44,rural,secondary,basotho,middle,not working,no,Hospital/other facility,<8
+20-24,rural,secondary,basotho,poorer,not working,yes,Hospital/other facility,<8
+20-24,rural,secondary,basotho,poorer,unskilled manual,no,Hospital/other facility,<8
+20-24,rural,secondary,basotho,middle,not working,no,Hospital/other facility,<8
+20-24,rural,secondary,basotho,middle,not working,no,Hospital/other facility,8/more
+40-44,rural,secondary,basotho,richer,unskilled manual,no,Hospital/other facility,8/more
+20-24,rural,secondary,basotho,poorer,not working,no,Hospital/other facility,<8
+30-34,rural,secondary,basotho,poorer,services,no,Hospital/other facility,<8
+25-29,rural,secondary,basotho,middle,not working,no,Hospital/other facility,8/more
+20-24,rural,secondary,basotho,poorer,not working,no,Hospital/other facility,<8
+15-19,rural,secondary,basotho,poorest,sales,no,Hospital/other facility,<8
+20-24,rural,primary,basotho,poorer,not working,yes,Hospital/other facility,8/more
+20-24,rural,secondary,basotho,poorest,unskilled manual,no,Home,8/more
+35-39,urban,secondary,basotho,richest,unskilled manual,no,Hospital/other facility,<8
+20-24,urban,secondary,basotho,richer,sales,no,Hospital/other facility,8/more
+35-39,urban,primary,basotho,poorest,not working,no,Hospital/other facility,<8
+35-39,urban,primary,basotho,middle,not working,no,Hospital/other facility,<8
+25-29,urban,secondary,basotho,middle,not working,no,Hospital/other facility,<8
+25-29,urban,secondary,basotho,richer,not working,no,Hospital/other facility,<8
+20-24,urban,secondary,basotho,richer,not working,yes,Hospital/other facility,8/more
+35-39,urban,higher,basotho,richest,unskilled manual,no,Hospital/other facility,8/more
+25-29,urban,secondary,basotho,richest,not working,no,Hospital/other facility,8/more
+35-39,urban,higher,basotho,richest,services,yes,Hospital/other facility,<8
+25-29,urban,higher,basotho,richest,professional/technical/managerial,no,Hospital/other facility,<8
+30-34,urban,secondary,basotho,richest,services,no,Hospital/other facility,8/more
+30-34,urban,secondary,basotho,richest,services,no,Hospital/other facility,<8
+15-19,urban,secondary,basotho,richer,not working,no,Hospital/other facility,8/more
+30-34,urban,higher,bathepu,richest,professional/technical/managerial,yes,Hospital/other facility,<8
+25-29,urban,secondary,basotho,middle,not working,yes,Hospital/other facility,8/more
+45-49,urban,primary,basotho,poorer,not working,no,Hospital/other facility,<8
+35-39,urban,secondary,basotho,poorer,sales,yes,Hospital/other facility,<8
+20-24,urban,secondary,basotho,richer,not working,no,Hospital/other facility,<8
+25-29,urban,secondary,basotho,richest,services,yes,Hospital/other facility,8/more
+25-29,urban,secondary,basotho,richer,not working,yes,Hospital/other facility,<8
+30-34,urban,secondary,basotho,poorer,sales,yes,Hospital/other facility,<8
+20-24,urban,secondary,basotho,middle,not working,no,Home,<8
+15-19,urban,secondary,basotho,middle,sales,yes,Hospital/other facility,8/more
+20-24,urban,secondary,basotho,poorer,sales,no,Hospital/other facility,<8
+15-19,urban,primary,basotho,poorer,unskilled manual,yes,Hospital/other facility,8/more
+40-44,urban,primary,basotho,poorest,not working,no,Hospital/other facility,<8
+25-29,urban,secondary,basotho,richer,clerical,no,Hospital/other facility,<8
+25-29,urban,secondary,basotho,richer,not working,yes,Hospital/other facility,<8
+25-29,urban,secondary,basotho,richest,unskilled manual,yes,Hospital/other facility,8/more
+35-39,urban,secondary,basotho,richest,clerical,yes,Hospital/other facility,<8
+20-24,urban,secondary,basotho,richer,not working,no,Hospital/other facility,8/more
+20-24,urban,secondary,basotho,richer,not working,no,Hospital/other facility,<8
+20-24,urban,secondary,basotho,middle,not working,no,Hospital/other facility,<8
+20-24,urban,secondary,basotho,richer,not working,no,Hospital/other facility,<8
+25-29,urban,secondary,basotho,richer,not working,yes,Hospital/other facility,<8
+25-29,urban,secondary,basotho,richer,not working,no,Hospital/other facility,8/more
+25-29,urban,primary,basotho,poorest,not working,yes,Hospital/other facility,<8
+30-34,urban,secondary,basotho,poorer,not working,no,Hospital/other facility,<8
+15-19,urban,secondary,basotho,poorer,not working,no,Hospital/other facility,<8
+25-29,urban,secondary,basotho,poorer,services,no,Home,<8
+35-39,urban,secondary,basotho,richer,not working,no,Hospital/other facility,<8
+20-24,urban,secondary,basotho,middle,unskilled manual,no,Home,8/more
+30-34,urban,higher,basotho,richest,not working,no,Hospital/other facility,<8
+20-24,rural,secondary,basotho,richer,not working,no,Hospital/other facility,<8
+25-29,rural,higher,basotho,richest,professional/technical/managerial,no,Hospital/other facility,<8
+25-29,rural,primary,basotho,middle,unskilled manual,yes,Hospital/other facility,<8
+40-44,rural,primary,basotho,poorer,not working,no,Hospital/other facility,<8
+25-29,rural,secondary,basotho,richer,not working,no,Hospital/other facility,<8
+40-44,rural,secondary,basotho,middle,not working,yes,Hospital/other facility,<8
+15-19,rural,primary,basotho,poorer,not working,no,Hospital/other facility,8/more
+15-19,rural,secondary,basotho,poorer,not working,yes,Hospital/other facility,<8
+15-19,rural,primary,basotho,poorer,not working,yes,Hospital/other facility,<8
+25-29,rural,primary,basotho,middle,not working,no,Hospital/other facility,<8
+35-39,rural,secondary,basotho,richest,unskilled manual,yes,Hospital/other facility,<8
+20-24,rural,higher,basotho,poorer,not working,no,Hospital/other facility,8/more
+20-24,rural,secondary,basotho,middle,sales,no,Hospital/other facility,<8
+30-34,rural,primary,basotho,poorer,unskilled manual,no,Hospital/other facility,<8
+20-24,rural,secondary,bathepu,poorest,not working,no,Hospital/other facility,8/more
+25-29,rural,higher,basotho,richer,professional/technical/managerial,no,Hospital/other facility,<8
+35-39,rural,higher,basotho,richer,professional/technical/managerial,no,Hospital/other facility,<8
+25-29,rural,primary,basotho,poorest,not working,no,Hospital/other facility,<8
+30-34,rural,primary,maxhoza,poorer,not working,yes,Hospital/other facility,<8
+15-19,rural,secondary,basotho,poorest,not working,no,Hospital/other facility,<8
+20-24,rural,secondary,basotho,poorest,services,no,Hospital/other facility,8/more
+20-24,rural,secondary,basotho,poorest,skilled manual,no,Hospital/other facility,<8
+30-34,rural,secondary,basotho,poorer,not working,no,Hospital/other facility,<8
+30-34,rural,primary,basotho,poorest,not working,no,Hospital/other facility,<8
+35-39,rural,secondary,basotho,poorest,not working,no,Home,<8
+20-24,rural,secondary,basotho,poorer,not working,no,Hospital/other facility,<8
+30-34,rural,primary,basotho,poorer,unskilled manual,no,Hospital/other facility,8/more
+20-24,rural,secondary,basotho,poorer,not working,no,Hospital/other facility,<8
+15-19,rural,secondary,basotho,richer,not working,yes,Hospital/other facility,<8
+20-24,rural,secondary,basotho,poorer,not working,no,Hospital/other facility,<8
+25-29,rural,secondary,basotho,poorer,not working,no,Hospital/other facility,8/more
+25-29,rural,secondary,basotho,poorer,sales,yes,Hospital/other facility,<8
+20-24,rural,secondary,basotho,poorest,not working,no,Home,<8
+20-24,rural,primary,basotho,middle,not working,no,Hospital/other facility,8/more
+20-24,rural,secondary,basotho,middle,not working,no,Hospital/other facility,8/more
+15-19,rural,secondary,basotho,poorer,not working,no,Hospital/other facility,<8
+25-29,rural,secondary,basotho,richer,not working,no,Hospital/other facility,<8
+20-24,rural,secondary,basotho,poorer,not working,no,Hospital/other facility,8/more
+20-24,rural,secondary,basotho,poorer,not working,no,Hospital/other facility,<8
+30-34,rural,secondary,basotho,poorest,not working,no,Hospital/other facility,<8
+20-24,rural,secondary,basotho,poorest,services,no,Hospital/other facility,<8
+30-34,rural,secondary,basotho,richest,not working,no,Hospital/other facility,<8
+30-34,rural,secondary,basotho,richer,sales,no,Hospital/other facility,8/more
+40-44,rural,primary,basotho,poorest,not working,yes,Hospital/other facility,<8
+25-29,rural,secondary,basotho,middle,unskilled manual,no,Hospital/other facility,<8
+30-34,rural,higher,basotho,richer,services,yes,Hospital/other facility,8/more
+15-19,rural,secondary,basotho,richer,not working,yes,Hospital/other facility,8/more
+20-24,rural,primary,basotho,richer,unskilled manual,no,Hospital/other facility,<8
+20-24,rural,secondary,basotho,poorest,not working,no,Hospital/other facility,<8
+20-24,rural,primary,basotho,poorer,unskilled manual,no,Hospital/other facility,<8
+20-24,rural,secondary,basotho,poorest,not working,yes,Hospital/other facility,8/more
+30-34,rural,secondary,basotho,richer,services,no,Hospital/other facility,<8
+20-24,rural,secondary,basotho,poorer,not working,yes,Hospital/other facility,<8
+30-34,rural,primary,basotho,poorer,unskilled manual,no,Hospital/other facility,<8
+20-24,rural,secondary,basotho,poorer,not working,no,Hospital/other facility,<8
+25-29,rural,secondary,basotho,middle,not working,no,Hospital/other facility,<8
+25-29,rural,higher,basotho,richest,professional/technical/managerial,no,Hospital/other facility,8/more
+40-44,rural,primary,basotho,poorest,not working,no,Hospital/other facility,<8
+20-24,rural,secondary,basotho,poorest,not working,no,Hospital/other facility,<8
+20-24,rural,secondary,basotho,poorer,not working,no,Hospital/other facility,<8
+20-24,rural,secondary,basotho,poorer,services,no,Hospital/other facility,<8
+40-44,rural,secondary,basotho,middle,professional/technical/managerial,no,Home,<8
+20-24,rural,primary,basotho,poorer,not working,no,Hospital/other facility,<8
+45-49,rural,secondary,basotho,middle,not working,no,Hospital/other facility,<8
+15-19,rural,primary,basotho,poorer,not working,yes,Hospital/other facility,<8
+20-24,rural,secondary,basotho,middle,not working,no,Hospital/other facility,<8
+20-24,rural,secondary,basotho,richer,not working,yes,Hospital/other facility,8/more
+15-19,rural,primary,basotho,middle,not working,yes,Hospital/other facility,<8
+20-24,rural,secondary,basotho,richer,not working,no,Hospital/other facility,<8
+25-29,rural,secondary,basotho,richest,unskilled manual,yes,Hospital/other facility,8/more
+25-29,rural,primary,basotho,poorer,not working,yes,Hospital/other facility,<8
+25-29,rural,secondary,basotho,middle,unskilled manual,no,Hospital/other facility,8/more
+25-29,rural,secondary,basotho,richer,unskilled manual,no,Home,<8
+25-29,rural,secondary,basotho,richest,not working,yes,Hospital/other facility,8/more
+35-39,rural,primary,basotho,middle,not working,yes,Hospital/other facility,<8
+20-24,rural,higher,basotho,richer,not working,no,Hospital/other facility,8/more
+30-34,rural,secondary,basotho,middle,not working,no,Hospital/other facility,8/more
+35-39,rural,secondary,basotho,poorer,not working,no,Hospital/other facility,<8
+25-29,rural,higher,basotho,richest,sales,no,Hospital/other facility,<8
+25-29,rural,secondary,basotho,poorer,sales,no,Home,<8
+30-34,rural,secondary,basotho,richest,services,yes,Hospital/other facility,8/more
+35-39,rural,secondary,basotho,poorest,sales,no,Home,<8
+15-19,rural,primary,basotho,poorest,not working,no,Hospital/other facility,<8
+15-19,rural,secondary,basotho,poorer,not working,yes,Hospital/other facility,8/more
+25-29,rural,higher,basotho,richer,not working,no,Hospital/other facility,8/more
+30-34,rural,primary,basotho,middle,not working,no,Home,<8
+25-29,rural,primary,basotho,middle,not working,no,Hospital/other facility,8/more
+20-24,rural,secondary,basotho,middle,not working,yes,Hospital/other facility,<8
+25-29,rural,secondary,basotho,richer,not working,no,Hospital/other facility,<8
+25-29,rural,secondary,basotho,richer,not working,yes,Hospital/other facility,<8
+35-39,rural,secondary,basotho,middle,not working,yes,Hospital/other facility,<8
+35-39,rural,secondary,basotho,richer,not working,no,Hospital/other facility,8/more
+15-19,rural,secondary,basotho,middle,not working,no,Hospital/other facility,<8
+20-24,rural,secondary,basotho,poorer,not working,no,Hospital/other facility,<8
+20-24,rural,secondary,basotho,middle,not working,no,Hospital/other facility,<8
+25-29,rural,secondary,basotho,richer,not working,no,Hospital/other facility,8/more
+25-29,rural,secondary,basotho,middle,not working,yes,Hospital/other facility,8/more
+35-39,rural,primary,basotho,richest,not working,no,Hospital/other facility,8/more
+20-24,rural,secondary,basotho,poorest,not working,no,Hospital/other facility,<8
+35-39,rural,primary,basotho,poorer,not working,yes,Hospital/other facility,8/more
+25-29,rural,primary,basotho,poorer,not working,no,Hospital/other facility,<8
+35-39,rural,primary,basotho,poorer,not working,no,Home,<8
+20-24,rural,secondary,basotho,richest,not working,no,Hospital/other facility,<8
+20-24,rural,primary,basotho,middle,not working,no,Hospital/other facility,8/more
+30-34,rural,secondary,basotho,poorer,not working,no,Hospital/other facility,8/more
+20-24,rural,secondary,basotho,middle,not working,no,Hospital/other facility,<8
+15-19,rural,secondary,basotho,poorer,not working,no,Hospital/other facility,<8
+25-29,rural,secondary,basotho,richest,not working,no,Hospital/other facility,<8
+25-29,rural,secondary,basotho,poorer,not working,yes,Hospital/other facility,8/more
+20-24,urban,secondary,basotho,middle,not working,no,Hospital/other facility,<8
+35-39,urban,higher,basotho,richest,not working,yes,Hospital/other facility,<8
+35-39,urban,primary,basotho,middle,unskilled manual,no,Hospital/other facility,<8
+15-19,urban,secondary,basotho,richer,not working,no,Hospital/other facility,8/more
+25-29,urban,primary,basotho,middle,not working,yes,Hospital/other facility,8/more
+20-24,urban,secondary,basotho,richer,services,yes,Hospital/other facility,<8
+30-34,urban,secondary,basotho,richer,not working,no,Hospital/other facility,<8
+20-24,urban,secondary,basotho,richer,not working,no,Hospital/other facility,8/more
+25-29,urban,secondary,basotho,poorer,not working,no,Hospital/other facility,<8
+30-34,urban,higher,basotho,richer,not working,no,Hospital/other facility,8/more
+20-24,urban,higher,basotho,middle,not working,yes,Hospital/other facility,<8
+25-29,urban,primary,basotho,richest,unskilled manual,no,Hospital/other facility,8/more
+35-39,urban,higher,basotho,richest,professional/technical/managerial,yes,Hospital/other facility,8/more
+20-24,urban,secondary,basotho,richer,not working,no,Hospital/other facility,<8
+35-39,urban,primary,basotho,poorest,unskilled manual,no,Hospital/other facility,<8
+35-39,urban,higher,basotho,richest,services,no,Hospital/other facility,<8
+25-29,urban,higher,basotho,richest,not working,no,Hospital/other facility,<8
+30-34,urban,higher,basotho,richer,sales,no,Hospital/other facility,8/more
+20-24,urban,secondary,basotho,richer,not working,no,Hospital/other facility,<8
+25-29,urban,secondary,basotho,richer,not working,no,Hospital/other facility,8/more
+30-34,urban,higher,basotho,richest,not working,yes,Hospital/other facility,8/more
+15-19,urban,secondary,basotho,middle,unskilled manual,no,Hospital/other facility,<8
+30-34,urban,higher,basotho,richest,unskilled manual,yes,Hospital/other facility,8/more
+25-29,urban,higher,basotho,richest,unskilled manual,no,Hospital/other facility,8/more
+25-29,urban,secondary,basotho,richer,not working,no,Hospital/other facility,8/more
+20-24,urban,secondary,basotho,richest,not working,no,Hospital/other facility,<8
+20-24,urban,higher,basotho,richer,not working,yes,Hospital/other facility,<8
+25-29,urban,higher,basotho,richer,not working,yes,Hospital/other facility,8/more
+35-39,urban,secondary,basotho,richer,not working,yes,Hospital/other facility,8/more
+20-24,urban,secondary,basotho,richer,not working,no,Hospital/other facility,8/more
+25-29,urban,secondary,basotho,richest,not working,no,Hospital/other facility,<8
+25-29,urban,secondary,basotho,middle,not working,no,Hospital/other facility,<8
+45-49,urban,secondary,basotho,richest,not working,no,Hospital/other facility,<8
+20-24,urban,primary,basotho,poorer,not working,no,Hospital/other facility,<8
+30-34,urban,primary,basotho,poorer,skilled manual,no,Hospital/other facility,<8
+20-24,urban,secondary,basotho,richer,not working,no,Hospital/other facility,<8
+25-29,urban,secondary,basotho,richest,unskilled manual,yes,Hospital/other facility,<8
+30-34,urban,higher,basotho,richer,services,no,Hospital/other facility,<8
+25-29,urban,secondary,basotho,richer,sales,no,Hospital/other facility,8/more
+20-24,urban,higher,basotho,richest,not working,yes,Hospital/other facility,<8
+40-44,urban,secondary,basotho,richer,unskilled manual,no,Hospital/other facility,<8
+30-34,urban,secondary,basotho,richer,not working,no,Hospital/other facility,<8
+35-39,urban,secondary,basotho,richest,unskilled manual,no,Hospital/other facility,<8
+35-39,urban,higher,basotho,richer,not working,yes,Hospital/other facility,8/more
+20-24,urban,secondary,basotho,richer,unskilled manual,no,Hospital/other facility,<8
+15-19,urban,secondary,basotho,poorest,not working,no,Hospital/other facility,<8
+30-34,urban,secondary,basotho,richer,skilled manual,no,Hospital/other facility,<8
+20-24,urban,secondary,basotho,richest,not working,no,Hospital/other facility,<8
+30-34,urban,primary,basotho,middle,skilled manual,no,Hospital/other facility,8/more
+15-19,urban,secondary,basotho,richest,not working,yes,Hospital/other facility,<8
+20-24,urban,primary,basotho,middle,not working,yes,Hospital/other facility,<8
+20-24,urban,secondary,basotho,richer,skilled manual,no,Hospital/other facility,<8
+30-34,urban,no education,basotho,richer,unskilled manual,no,Hospital/other facility,8/more
+15-19,urban,secondary,basotho,middle,not working,no,Hospital/other facility,8/more
+30-34,urban,higher,basotho,richer,sales,no,Hospital/other facility,<8
+20-24,urban,primary,basotho,richest,professional/technical/managerial,no,Hospital/other facility,<8
+35-39,urban,higher,basotho,richer,not working,yes,Hospital/other facility,<8
+30-34,urban,secondary,basotho,richest,not working,no,Hospital/other facility,<8
+25-29,urban,secondary,basotho,richer,skilled manual,yes,Hospital/other facility,<8
+40-44,rural,secondary,basotho,middle,not working,yes,Hospital/other facility,<8
+30-34,rural,secondary,basotho,richest,not working,yes,Hospital/other facility,<8
+25-29,rural,secondary,basotho,richer,unskilled manual,no,Hospital/other facility,<8
+30-34,rural,secondary,basotho,middle,not working,no,Hospital/other facility,8/more
+30-34,rural,secondary,basotho,poorer,not working,no,Home,<8
+35-39,rural,higher,basotho,middle,agricultural - employee,no,Hospital/other facility,8/more
+20-24,rural,primary,basotho,poorer,not working,yes,Hospital/other facility,<8
+30-34,rural,secondary,basotho,richest,unskilled manual,no,Hospital/other facility,<8
+15-19,rural,secondary,basotho,poorer,not working,no,Hospital/other facility,<8
+20-24,rural,secondary,basotho,richest,not working,yes,Hospital/other facility,8/more
+20-24,rural,secondary,basotho,richest,unskilled manual,yes,Hospital/other facility,<8
+20-24,rural,secondary,basotho,middle,not working,no,Hospital/other facility,<8
+30-34,rural,primary,basotho,middle,not working,no,Hospital/other facility,<8
+25-29,rural,secondary,basotho,middle,not working,no,Hospital/other facility,<8
+15-19,rural,secondary,basotho,poorer,not working,no,Hospital/other facility,<8
+25-29,rural,secondary,basotho,middle,not working,no,Hospital/other facility,8/more
+25-29,rural,higher,basotho,richer,unskilled manual,yes,Hospital/other facility,<8
+20-24,rural,primary,basotho,poorest,not working,no,Hospital/other facility,<8
+25-29,rural,higher,basotho,richest,not working,no,Hospital/other facility,<8
+35-39,rural,primary,basotho,richest,not working,no,Hospital/other facility,<8
+15-19,rural,secondary,basotho,richest,not working,yes,Hospital/other facility,<8
+30-34,rural,secondary,basotho,poorer,not working,yes,Hospital/other facility,<8
+30-34,rural,secondary,basotho,poorer,professional/technical/managerial,no,Hospital/other facility,<8
+30-34,rural,secondary,basotho,poorer,sales,no,Hospital/other facility,<8
+15-19,rural,primary,basotho,poorest,not working,no,Home,<8
+15-19,rural,primary,basotho,poorer,unskilled manual,no,Hospital/other facility,<8
+20-24,rural,secondary,basotho,poorer,not working,no,Hospital/other facility,8/more
+15-19,rural,primary,basotho,poorest,unskilled manual,no,Hospital/other facility,<8
+20-24,rural,secondary,basotho,poorer,not working,no,Hospital/other facility,<8
+25-29,rural,secondary,basotho,middle,not working,no,Hospital/other facility,8/more
+20-24,rural,secondary,basotho,richer,not working,no,Hospital/other facility,<8
+30-34,rural,secondary,basotho,poorer,not working,yes,Hospital/other facility,<8
+20-24,rural,secondary,basotho,middle,not working,yes,Hospital/other facility,<8
+35-39,rural,primary,basotho,richest,not working,yes,Hospital/other facility,<8
+15-19,rural,secondary,basotho,poorer,not working,no,Hospital/other facility,8/more
+20-24,rural,secondary,basotho,middle,not working,no,Hospital/other facility,<8
+25-29,rural,primary,basotho,poorer,not working,no,Hospital/other facility,<8
+25-29,rural,secondary,basotho,middle,unskilled manual,yes,Hospital/other facility,<8
+20-24,rural,secondary,basotho,poorest,not working,no,Hospital/other facility,<8
+25-29,rural,secondary,basotho,middle,not working,no,Hospital/other facility,8/more
+40-44,rural,primary,basotho,richest,unskilled manual,no,Home,<8
+40-44,rural,higher,basotho,richer,unskilled manual,no,Hospital/other facility,<8
+25-29,rural,secondary,basotho,middle,not working,no,Home,<8
+20-24,rural,secondary,basotho,middle,not working,no,Hospital/other facility,<8
+20-24,rural,secondary,basotho,middle,unskilled manual,no,Hospital/other facility,8/more
+20-24,rural,primary,basotho,poorest,not working,yes,Hospital/other facility,<8
+20-24,rural,secondary,basotho,poorer,not working,no,Home,<8
+25-29,rural,secondary,basotho,poorest,not working,no,Hospital/other facility,8/more
+25-29,rural,secondary,basotho,poorest,not working,no,Home,<8
+35-39,rural,primary,basotho,poorest,not working,no,Hospital/other facility,8/more
+20-24,rural,secondary,basotho,poorer,not working,yes,Hospital/other facility,<8
+20-24,rural,primary,basotho,poorest,unskilled manual,no,Hospital/other facility,<8
+25-29,rural,primary,basotho,poorest,not working,yes,Hospital/other facility,<8
+20-24,rural,primary,basotho,poorest,agricultural - employee,no,Home,<8
+20-24,rural,secondary,basotho,poorest,unskilled manual,no,Hospital/other facility,8/more
+25-29,rural,secondary,basotho,poorest,not working,no,Hospital/other facility,<8
+25-29,rural,secondary,basotho,poorer,not working,no,Hospital/other facility,<8
+30-34,rural,secondary,basotho,poorest,not working,no,Home,<8
+25-29,rural,secondary,basotho,poorest,not working,no,Hospital/other facility,<8
+35-39,rural,primary,basotho,poorer,not working,no,Hospital/other facility,8/more
+25-29,rural,secondary,basotho,richer,not working,no,Hospital/other facility,<8
+40-44,rural,primary,basotho,richer,skilled manual,yes,Hospital/other facility,8/more
+25-29,rural,secondary,basotho,richest,unskilled manual,yes,Hospital/other facility,<8
+35-39,rural,primary,basotho,richer,not working,no,Hospital/other facility,8/more
+20-24,rural,secondary,basotho,middle,not working,no,Hospital/other facility,<8
+20-24,rural,secondary,basotho,middle,not working,no,Hospital/other facility,<8
+40-44,rural,primary,basotho,poorest,not working,no,Home,<8
+20-24,rural,primary,basotho,poorest,not working,no,Hospital/other facility,8/more
+35-39,rural,primary,basotho,poorest,agricultural - employee,no,Hospital/other facility,8/more
+25-29,rural,primary,basotho,poorest,services,no,Hospital/other facility,8/more
+40-44,rural,primary,maxhoza,poorer,agricultural - employee,no,Hospital/other facility,<8
+15-19,rural,secondary,basotho,poorer,not working,no,Hospital/other facility,<8
+40-44,rural,higher,basotho,poorer,not working,no,Hospital/other facility,<8
+25-29,rural,secondary,basotho,poorer,not working,yes,Hospital/other facility,<8
+20-24,rural,secondary,basotho,poorer,not working,no,Hospital/other facility,8/more
+20-24,rural,primary,basotho,poorer,not working,no,Home,<8
+25-29,rural,primary,basotho,poorer,sales,no,Hospital/other facility,<8
+25-29,rural,primary,basotho,poorer,not working,yes,Hospital/other facility,<8
+25-29,rural,secondary,basotho,poorer,unskilled manual,no,Hospital/other facility,8/more
+30-34,rural,secondary,basotho,poorest,not working,no,Hospital/other facility,<8
+25-29,rural,secondary,basotho,poorer,not working,yes,Hospital/other facility,<8
+25-29,rural,secondary,basotho,poorer,not working,no,Hospital/other facility,8/more
+20-24,rural,secondary,basotho,poorer,not working,no,Hospital/other facility,8/more
+25-29,rural,secondary,basotho,poorest,unskilled manual,no,Hospital/other facility,<8
+35-39,rural,primary,basotho,poorer,not working,no,Hospital/other facility,<8
+25-29,rural,primary,basotho,middle,not working,no,Hospital/other facility,<8
+30-34,rural,secondary,basotho,poorer,not working,yes,Hospital/other facility,<8
+35-39,rural,primary,basotho,poorer,unskilled manual,no,Hospital/other facility,8/more
+15-19,rural,secondary,basotho,middle,unskilled manual,no,Hospital/other facility,<8
+15-19,rural,secondary,basotho,poorer,not working,no,Hospital/other facility,<8
+20-24,rural,primary,basotho,richer,not working,no,Hospital/other facility,8/more
+15-19,rural,secondary,basotho,middle,not working,no,Hospital/other facility,<8
+30-34,rural,secondary,basotho,poorer,not working,no,Home,<8
+20-24,rural,secondary,basotho,poorer,not working,yes,Hospital/other facility,8/more
+25-29,rural,secondary,basotho,poorer,not working,no,Hospital/other facility,<8
+20-24,rural,secondary,basotho,poorer,not working,no,Hospital/other facility,<8
+40-44,rural,primary,basotho,poorest,unskilled manual,no,Hospital/other facility,8/more
+25-29,rural,higher,basotho,poorer,sales,yes,Hospital/other facility,<8
+35-39,rural,primary,basotho,poorer,not working,no,Hospital/other facility,8/more
+20-24,rural,secondary,basotho,poorest,not working,no,Hospital/other facility,8/more
+20-24,rural,secondary,basotho,poorer,not working,no,Hospital/other facility,<8
+30-34,rural,secondary,basotho,poorer,not working,yes,Hospital/other facility,<8
+25-29,rural,primary,basotho,poorest,not working,no,Hospital/other facility,8/more
+35-39,rural,higher,basotho,richest,sales,yes,Hospital/other facility,8/more
+40-44,rural,primary,basotho,poorer,agricultural - self employed,no,Hospital/other facility,<8
+25-29,rural,secondary,basotho,middle,agricultural - employee,yes,Hospital/other facility,8/more
+40-44,rural,primary,basotho,poorest,not working,no,Home,<8
+20-24,rural,secondary,basotho,poorest,not working,no,Hospital/other facility,8/more
+25-29,rural,primary,basotho,richest,sales,no,Home,<8
+30-34,rural,secondary,basotho,richest,professional/technical/managerial,yes,Hospital/other facility,8/more
+25-29,rural,secondary,basotho,richer,sales,no,Hospital/other facility,<8
+15-19,rural,secondary,basotho,middle,not working,no,Hospital/other facility,8/more
+30-34,rural,higher,basotho,middle,sales,no,Hospital/other facility,8/more
+15-19,rural,secondary,basotho,middle,not working,no,Hospital/other facility,<8
+35-39,rural,primary,basotho,poorer,not working,no,Hospital/other facility,<8
+20-24,rural,secondary,basotho,middle,not working,no,Hospital/other facility,8/more
+15-19,rural,primary,basotho,poorer,not working,no,Hospital/other facility,<8
+15-19,urban,primary,basotho,poorer,sales,no,Home,<8
+30-34,urban,secondary,basotho,richest,services,no,Hospital/other facility,8/more
+20-24,urban,secondary,basotho,richest,not working,no,Hospital/other facility,<8
+30-34,urban,secondary,basotho,richer,unskilled manual,no,Hospital/other facility,<8
+30-34,urban,primary,basotho,middle,not working,no,Hospital/other facility,<8
+35-39,urban,secondary,basotho,richer,sales,yes,Hospital/other facility,<8
+25-29,urban,secondary,basotho,richer,not working,no,Hospital/other facility,<8
+25-29,urban,higher,basotho,richer,sales,no,Hospital/other facility,8/more
+15-19,urban,secondary,basotho,poorer,sales,no,Hospital/other facility,<8
+20-24,urban,primary,basotho,richest,unskilled manual,no,Hospital/other facility,<8
+30-34,urban,secondary,basotho,richest,services,yes,Hospital/other facility,<8
+30-34,urban,higher,basotho,richest,sales,yes,Hospital/other facility,<8
+25-29,urban,higher,basotho,richest,agricultural - self employed,yes,Hospital/other facility,<8
+25-29,urban,secondary,basotho,richest,not working,no,Hospital/other facility,8/more
+20-24,urban,secondary,basotho,richer,unskilled manual,no,Hospital/other facility,8/more
+25-29,urban,primary,basotho,richer,not working,no,Hospital/other facility,<8
+30-34,urban,secondary,basotho,richer,sales,no,Hospital/other facility,8/more
+20-24,urban,secondary,basotho,middle,not working,no,Hospital/other facility,<8
+20-24,urban,secondary,basotho,richest,not working,no,Hospital/other facility,<8
+25-29,urban,secondary,basotho,richer,not working,no,Hospital/other facility,<8
+25-29,urban,higher,basotho,richer,sales,no,Hospital/other facility,8/more
+20-24,urban,secondary,basotho,richest,unskilled manual,yes,Hospital/other facility,<8
+20-24,urban,secondary,basotho,richer,sales,no,Hospital/other facility,<8
+25-29,urban,higher,basotho,richest,not working,yes,Hospital/other facility,8/more
+20-24,urban,primary,basotho,richer,not working,no,Hospital/other facility,<8
+15-19,urban,secondary,basotho,richest,not working,no,Hospital/other facility,8/more
+25-29,urban,secondary,basotho,richest,not working,no,Hospital/other facility,8/more
+25-29,urban,secondary,basotho,middle,not working,no,Hospital/other facility,<8
+20-24,urban,higher,basotho,richer,not working,no,Hospital/other facility,<8
+30-34,urban,secondary,basotho,richer,not working,no,Hospital/other facility,<8
+25-29,urban,secondary,basotho,richer,skilled manual,no,Hospital/other facility,<8
+30-34,urban,higher,basotho,richest,sales,yes,Hospital/other facility,<8
+25-29,urban,higher,basotho,richer,skilled manual,no,Hospital/other facility,8/more
+40-44,urban,higher,basotho,richest,unskilled manual,yes,Hospital/other facility,<8
+25-29,urban,secondary,basotho,richest,unskilled manual,no,Hospital/other facility,8/more
+35-39,urban,higher,basotho,richest,sales,yes,Hospital/other facility,<8
+25-29,urban,secondary,basotho,richest,unskilled manual,no,Hospital/other facility,<8
+25-29,urban,secondary,basotho,richer,unskilled manual,no,Hospital/other facility,<8
+30-34,urban,higher,basotho,richer,skilled manual,no,Hospital/other facility,<8
+20-24,urban,secondary,basotho,richer,sales,yes,Hospital/other facility,<8
+30-34,urban,secondary,basotho,richer,professional/technical/managerial,no,Hospital/other facility,8/more
+35-39,urban,higher,basotho,richest,professional/technical/managerial,yes,Hospital/other facility,<8
+30-34,urban,higher,basotho,richer,not working,yes,Hospital/other facility,8/more
+35-39,urban,higher,basotho,richest,unskilled manual,yes,Hospital/other facility,<8
+30-34,urban,secondary,basotho,richest,not working,no,Hospital/other facility,8/more
+30-34,urban,secondary,basotho,richest,unskilled manual,yes,Hospital/other facility,<8
+20-24,urban,primary,basotho,richest,unskilled manual,no,Hospital/other facility,<8
+20-24,urban,secondary,basotho,richest,sales,no,Hospital/other facility,<8
+30-34,urban,secondary,basotho,richest,skilled manual,no,Hospital/other facility,8/more
+25-29,urban,secondary,basotho,richer,professional/technical/managerial,no,Hospital/other facility,8/more
+30-34,rural,primary,basotho,poorest,unskilled manual,no,Home,<8
+30-34,rural,higher,basotho,richest,clerical,no,Hospital/other facility,<8
+35-39,rural,higher,basotho,richer,services,no,Hospital/other facility,<8
+20-24,rural,secondary,basotho,richer,not working,no,Hospital/other facility,<8
+35-39,rural,higher,basotho,richest,professional/technical/managerial,no,Hospital/other facility,<8
+25-29,rural,higher,basotho,richer,not working,yes,Hospital/other facility,<8
+40-44,rural,secondary,basotho,richest,sales,no,Hospital/other facility,<8
+25-29,rural,primary,basotho,richer,not working,no,Hospital/other facility,<8
+15-19,rural,secondary,basotho,poorer,not working,no,Hospital/other facility,<8
+30-34,rural,primary,basotho,poorer,not working,no,Hospital/other facility,<8
+20-24,rural,secondary,basotho,poorer,sales,no,Hospital/other facility,8/more
+20-24,rural,primary,basotho,poorer,not working,no,Home,<8
+35-39,rural,secondary,basotho,middle,not working,no,Hospital/other facility,8/more
+20-24,rural,secondary,basotho,middle,not working,no,Hospital/other facility,<8
+15-19,rural,primary,basotho,poorer,not working,no,Hospital/other facility,<8
+30-34,rural,secondary,basotho,poorer,unskilled manual,no,Hospital/other facility,<8
+15-19,rural,secondary,basotho,middle,unskilled manual,no,Hospital/other facility,<8
+15-19,rural,primary,basotho,poorer,not working,no,Hospital/other facility,<8
+15-19,rural,secondary,basotho,poorer,not working,no,Hospital/other facility,<8
+20-24,rural,secondary,basotho,richest,professional/technical/managerial,no,Hospital/other facility,<8
+30-34,rural,primary,basotho,poorest,unskilled manual,yes,Hospital/other facility,<8
+20-24,rural,secondary,basotho,poorer,not working,no,Hospital/other facility,<8
+25-29,rural,primary,basotho,poorest,not working,yes,Hospital/other facility,<8
+25-29,rural,secondary,basotho,poorer,not working,yes,Hospital/other facility,<8
+30-34,rural,secondary,basotho,poorer,not working,no,Home,<8
+20-24,rural,secondary,basotho,poorer,not working,no,Hospital/other facility,<8
+30-34,rural,primary,maxhoza,poorer,not working,no,Home,<8
+25-29,rural,secondary,basotho,middle,unskilled manual,no,Hospital/other facility,<8
+25-29,rural,primary,basotho,middle,not working,yes,Hospital/other facility,<8
+35-39,rural,secondary,basotho,middle,not working,no,Home,<8
+15-19,rural,secondary,basotho,poorest,not working,no,Hospital/other facility,<8
+25-29,rural,primary,basotho,middle,not working,no,Hospital/other facility,<8
+25-29,rural,secondary,basotho,middle,not working,yes,Hospital/other facility,<8
+20-24,rural,secondary,basotho,poorer,not working,no,Hospital/other facility,<8
+40-44,rural,higher,basotho,middle,agricultural - employee,no,Hospital/other facility,8/more
+20-24,rural,secondary,basotho,poorer,sales,yes,Hospital/other facility,<8
+20-24,rural,secondary,basotho,middle,not working,yes,Hospital/other facility,<8
+25-29,rural,primary,basotho,poorest,agricultural - employee,no,Hospital/other facility,<8
+20-24,rural,secondary,basotho,poorer,not working,no,Hospital/other facility,<8
+20-24,rural,secondary,basotho,richest,unskilled manual,no,Hospital/other facility,8/more
+25-29,rural,secondary,basotho,middle,sales,no,Hospital/other facility,<8
+15-19,rural,primary,basotho,middle,not working,no,Hospital/other facility,<8
+25-29,rural,secondary,basotho,middle,not working,no,Hospital/other facility,8/more
+30-34,rural,primary,basotho,middle,agricultural - self employed,no,Hospital/other facility,<8
+25-29,rural,secondary,basotho,middle,unskilled manual,no,Hospital/other facility,<8
+15-19,rural,primary,basotho,middle,not working,no,Hospital/other facility,<8
+30-34,rural,higher,basotho,richest,unskilled manual,yes,Hospital/other facility,<8
+20-24,rural,higher,basotho,richer,not working,no,Hospital/other facility,8/more
+25-29,rural,secondary,basotho,middle,unskilled manual,no,Hospital/other facility,8/more
+25-29,rural,secondary,basotho,richer,skilled manual,yes,Hospital/other facility,<8
+30-34,rural,primary,basotho,middle,services,no,Hospital/other facility,<8
+30-34,rural,higher,basotho,richer,sales,yes,Hospital/other facility,<8
+35-39,rural,secondary,basotho,middle,not working,no,Hospital/other facility,8/more
+20-24,rural,secondary,basotho,poorer,not working,no,Hospital/other facility,<8
+35-39,rural,primary,basotho,poorest,unskilled manual,no,Home,<8
+20-24,rural,primary,basotho,poorer,unskilled manual,no,Hospital/other facility,<8
+25-29,rural,secondary,basotho,poorer,skilled manual,yes,Hospital/other facility,<8
+20-24,rural,secondary,basotho,poorest,not working,no,Hospital/other facility,<8
+20-24,rural,secondary,basotho,middle,not working,no,Hospital/other facility,<8
+35-39,rural,primary,basotho,middle,not working,no,Hospital/other facility,<8
+20-24,rural,secondary,basotho,poorer,not working,no,Hospital/other facility,<8
+20-24,rural,primary,basotho,poorest,not working,no,Home,<8
+15-19,rural,secondary,basotho,poorest,not working,no,Hospital/other facility,<8
+20-24,rural,secondary,basotho,middle,sales,no,Hospital/other facility,8/more
+30-34,urban,higher,basotho,richer,sales,no,Hospital/other facility,<8
+35-39,urban,higher,basotho,richest,not working,yes,Hospital/other facility,<8
+15-19,urban,secondary,basotho,middle,not working,yes,Hospital/other facility,<8
+25-29,urban,secondary,basotho,richer,sales,yes,Hospital/other facility,<8
+30-34,urban,higher,basotho,richer,professional/technical/managerial,no,Hospital/other facility,<8
+30-34,urban,higher,basotho,richer,professional/technical/managerial,no,Hospital/other facility,<8
+35-39,urban,secondary,basotho,richest,services,yes,Hospital/other facility,8/more
+15-19,urban,secondary,basotho,middle,sales,no,Hospital/other facility,<8
+40-44,urban,secondary,basotho,richer,agricultural - employee,no,Hospital/other facility,<8
+20-24,urban,secondary,basotho,richer,unskilled manual,no,Hospital/other facility,<8
+25-29,urban,secondary,basotho,richer,not working,no,Home,<8
+20-24,urban,higher,bathepu,richest,clerical,no,Hospital/other facility,<8
+15-19,urban,secondary,basotho,richer,not working,no,Hospital/other facility,<8
+20-24,urban,secondary,basotho,poorer,not working,no,Home,<8
+20-24,urban,secondary,basotho,richer,unskilled manual,no,Hospital/other facility,<8
+30-34,urban,higher,basotho,richest,not working,yes,Hospital/other facility,8/more
+30-34,urban,higher,basotho,richest,professional/technical/managerial,no,Hospital/other facility,8/more
+35-39,urban,secondary,basotho,middle,services,no,Hospital/other facility,8/more
+25-29,urban,secondary,basotho,richest,sales,yes,Hospital/other facility,<8
+35-39,urban,secondary,basotho,richest,unskilled manual,yes,Hospital/other facility,<8
+25-29,urban,higher,basotho,richest,unskilled manual,no,Hospital/other facility,<8
+35-39,urban,higher,basotho,richest,professional/technical/managerial,yes,Hospital/other facility,8/more
+40-44,urban,higher,basotho,richest,professional/technical/managerial,no,Hospital/other facility,8/more
+25-29,urban,secondary,basotho,richest,sales,no,Hospital/other facility,<8
+20-24,urban,higher,basotho,richest,unskilled manual,yes,Hospital/other facility,8/more
+35-39,urban,secondary,basotho,richest,not working,no,Hospital/other facility,8/more
+20-24,urban,higher,basotho,richest,unskilled manual,no,Hospital/other facility,8/more
+40-44,urban,secondary,basotho,richest,professional/technical/managerial,no,Hospital/other facility,8/more
+20-24,urban,secondary,basotho,middle,not working,no,Hospital/other facility,<8
+35-39,urban,primary,basotho,richer,unskilled manual,no,Hospital/other facility,<8
+25-29,urban,secondary,basotho,richer,not working,no,Hospital/other facility,8/more
+20-24,urban,secondary,basotho,richer,not working,no,Hospital/other facility,<8
+35-39,urban,no education,basotho,richer,unskilled manual,no,Hospital/other facility,8/more
+25-29,urban,higher,basotho,richer,unskilled manual,no,Hospital/other facility,<8
+30-34,urban,secondary,basotho,richer,not working,no,Hospital/other facility,<8
+25-29,urban,higher,basotho,richest,not working,no,Hospital/other facility,8/more
+25-29,urban,secondary,basotho,richer,unskilled manual,no,Hospital/other facility,<8
+35-39,urban,secondary,basotho,richest,not working,no,Hospital/other facility,<8
+20-24,urban,secondary,basotho,richer,not working,no,Hospital/other facility,<8
+15-19,urban,secondary,basotho,richer,not working,no,Hospital/other facility,<8
+20-24,urban,secondary,basotho,richest,not working,no,Hospital/other facility,<8
+35-39,urban,higher,basotho,richest,sales,yes,Hospital/other facility,<8
+20-24,urban,secondary,basotho,richer,unskilled manual,yes,Hospital/other facility,<8
+25-29,urban,secondary,basotho,richer,not working,no,Hospital/other facility,<8
+25-29,urban,secondary,basotho,richer,unskilled manual,yes,Hospital/other facility,<8
+30-34,urban,secondary,basotho,richer,skilled manual,no,Hospital/other facility,<8
+20-24,urban,secondary,basotho,middle,services,yes,Hospital/other facility,<8
+30-34,urban,primary,basotho,richer,not working,no,Hospital/other facility,<8
+30-34,urban,higher,basotho,poorer,unskilled manual,yes,Hospital/other facility,<8
+30-34,urban,primary,basotho,middle,unskilled manual,no,Home,<8
+15-19,urban,secondary,basotho,middle,not working,no,Hospital/other facility,<8
+25-29,urban,primary,basotho,poorer,not working,yes,Hospital/other facility,<8
+30-34,urban,secondary,basotho,richer,skilled manual,yes,Hospital/other facility,8/more
+30-34,urban,primary,basotho,poorer,sales,no,Home,<8
+30-34,urban,higher,basotho,richer,services,no,Hospital/other facility,8/more
+40-44,urban,secondary,basotho,richest,unskilled manual,yes,Hospital/other facility,8/more
+25-29,urban,secondary,maxhoza,richest,unskilled manual,no,Hospital/other facility,<8
+20-24,urban,secondary,basotho,richest,services,no,Hospital/other facility,<8
+25-29,urban,higher,basotho,richest,not working,no,Hospital/other facility,8/more
+25-29,urban,secondary,basotho,richer,unskilled manual,yes,Hospital/other facility,<8
+25-29,urban,secondary,basotho,richest,unskilled manual,no,Hospital/other facility,<8
+25-29,urban,secondary,basotho,richer,unskilled manual,no,Hospital/other facility,<8
+30-34,urban,secondary,basotho,richer,unskilled manual,no,Hospital/other facility,<8
+15-19,urban,secondary,basotho,richer,not working,no,Hospital/other facility,8/more
+40-44,urban,secondary,basotho,richer,unskilled manual,no,Home,<8
+25-29,urban,primary,basotho,middle,unskilled manual,yes,Hospital/other facility,<8
+25-29,urban,higher,basotho,richer,unskilled manual,yes,Hospital/other facility,<8
+25-29,urban,higher,basotho,richest,skilled manual,no,Hospital/other facility,8/more
+40-44,urban,higher,basotho,richest,sales,yes,Hospital/other facility,<8
+25-29,urban,higher,basotho,richest,sales,yes,Hospital/other facility,8/more
+30-34,urban,secondary,basotho,middle,sales,yes,Hospital/other facility,<8
+35-39,urban,secondary,basotho,richer,skilled manual,yes,Hospital/other facility,<8
+15-19,urban,secondary,basotho,richer,not working,no,Hospital/other facility,<8
+25-29,urban,secondary,basotho,middle,skilled manual,no,Hospital/other facility,8/more
+30-34,urban,no education,basotho,richest,not working,no,Home,<8
+25-29,urban,higher,basotho,richest,sales,yes,Hospital/other facility,8/more
+40-44,urban,primary,basotho,richer,unskilled manual,no,Hospital/other facility,<8
+15-19,urban,secondary,basotho,richest,not working,no,Hospital/other facility,<8
+20-24,urban,secondary,basotho,richest,not working,no,Hospital/other facility,8/more
+40-44,urban,primary,basotho,richer,services,no,Hospital/other facility,<8
+20-24,urban,secondary,basotho,poorer,not working,no,Hospital/other facility,<8
+20-24,urban,higher,basotho,richest,not working,no,Hospital/other facility,<8
+25-29,urban,secondary,basotho,richest,not working,no,Hospital/other facility,<8
+25-29,urban,secondary,basotho,middle,unskilled manual,no,Hospital/other facility,<8
+25-29,urban,primary,basotho,middle,unskilled manual,no,Home,<8
+35-39,urban,secondary,basotho,richest,unskilled manual,no,Hospital/other facility,<8
+30-34,urban,higher,basotho,richer,professional/technical/managerial,no,Hospital/other facility,<8
+25-29,urban,secondary,basotho,middle,not working,no,Hospital/other facility,<8
+20-24,urban,secondary,basotho,richest,not working,no,Hospital/other facility,8/more
+25-29,urban,secondary,basotho,middle,unskilled manual,no,Hospital/other facility,<8
+30-34,urban,secondary,basotho,richer,clerical,yes,Hospital/other facility,<8
+30-34,urban,higher,basotho,richest,professional/technical/managerial,no,Hospital/other facility,<8
+20-24,urban,higher,basotho,richest,not working,no,Hospital/other facility,<8
+25-29,urban,higher,basotho,richest,skilled manual,no,Hospital/other facility,<8
+25-29,urban,higher,basotho,richer,sales,no,Hospital/other facility,<8
+15-19,urban,secondary,basotho,middle,not working,no,Hospital/other facility,<8
+30-34,urban,higher,basotho,richest,unskilled manual,yes,Hospital/other facility,<8
+20-24,urban,secondary,basotho,richest,unskilled manual,no,Hospital/other facility,<8
+30-34,urban,secondary,basotho,richest,sales,no,Hospital/other facility,8/more
+25-29,urban,higher,basotho,richest,unskilled manual,no,Hospital/other facility,<8
+20-24,urban,secondary,basotho,richer,not working,yes,Hospital/other facility,8/more
+25-29,urban,secondary,basotho,richest,professional/technical/managerial,yes,Hospital/other facility,8/more
+45-49,urban,primary,basotho,richer,not working,no,Hospital/other facility,<8
+35-39,urban,higher,basotho,richest,clerical,no,Hospital/other facility,<8
+25-29,urban,higher,basotho,richest,professional/technical/managerial,no,Hospital/other facility,<8
+25-29,urban,secondary,basotho,richest,sales,no,Hospital/other facility,<8
+35-39,urban,higher,basotho,richest,professional/technical/managerial,no,Hospital/other facility,<8
+30-34,urban,higher,basotho,richest,professional/technical/managerial,yes,Hospital/other facility,<8
+35-39,urban,primary,basotho,richer,not working,no,Hospital/other facility,<8
+40-44,urban,secondary,basotho,richest,not working,yes,Hospital/other facility,<8
+15-19,urban,primary,basotho,middle,not working,yes,Hospital/other facility,8/more
+25-29,urban,secondary,basotho,richer,unskilled manual,no,Hospital/other facility,<8
+25-29,rural,secondary,basotho,middle,not working,yes,Hospital/other facility,<8
+35-39,rural,secondary,basotho,richer,not working,no,Hospital/other facility,<8
+20-24,rural,secondary,basotho,poorer,unskilled manual,no,Hospital/other facility,<8
+25-29,rural,secondary,basotho,middle,not working,yes,Hospital/other facility,8/more
+30-34,rural,primary,basotho,poorer,services,yes,Hospital/other facility,8/more
+20-24,rural,secondary,basotho,middle,sales,no,Hospital/other facility,8/more
+20-24,rural,secondary,basotho,middle,not working,no,Hospital/other facility,<8
+30-34,rural,primary,basotho,poorer,not working,no,Hospital/other facility,<8
+35-39,rural,higher,basotho,poorer,professional/technical/managerial,no,Hospital/other facility,8/more
+20-24,rural,secondary,basotho,middle,not working,no,Hospital/other facility,8/more
+35-39,rural,secondary,basotho,poorest,not working,no,Hospital/other facility,8/more
+25-29,rural,secondary,basotho,poorer,unskilled manual,no,Hospital/other facility,<8
+25-29,rural,primary,basotho,poorer,agricultural - self employed,no,Hospital/other facility,8/more
+25-29,rural,secondary,basotho,middle,not working,no,Hospital/other facility,<8
+15-19,rural,secondary,basotho,poorest,not working,no,Hospital/other facility,<8
+20-24,rural,higher,basotho,richer,not working,no,Hospital/other facility,<8
+35-39,rural,primary,basotho,poorest,not working,no,Hospital/other facility,<8
+20-24,rural,secondary,basotho,middle,not working,yes,Hospital/other facility,<8
+30-34,rural,secondary,basotho,richer,unskilled manual,no,Hospital/other facility,8/more
+15-19,rural,secondary,basotho,poorer,not working,no,Hospital/other facility,<8
+20-24,rural,secondary,basotho,middle,not working,no,Hospital/other facility,8/more
+15-19,rural,primary,basotho,poorest,not working,no,Hospital/other facility,<8
+20-24,rural,secondary,basotho,poorest,not working,no,Home,<8
+20-24,rural,primary,basotho,poorer,not working,no,Hospital/other facility,<8
+25-29,rural,secondary,basotho,poorer,not working,no,Hospital/other facility,<8
+30-34,rural,secondary,basotho,middle,not working,yes,Hospital/other facility,8/more
+15-19,rural,secondary,basotho,middle,not working,yes,Hospital/other facility,<8
+30-34,rural,primary,basotho,middle,not working,no,Hospital/other facility,<8
+25-29,rural,primary,basotho,middle,not working,no,Home,<8
+15-19,rural,primary,basotho,middle,not working,yes,Hospital/other facility,<8
+20-24,rural,secondary,basotho,poorest,not working,no,Hospital/other facility,<8
+30-34,rural,secondary,basotho,poorer,not working,no,Hospital/other facility,<8
+20-24,rural,secondary,basotho,middle,not working,no,Hospital/other facility,<8
+30-34,rural,primary,basotho,poorer,not working,no,Hospital/other facility,8/more
+35-39,rural,secondary,basotho,richer,not working,no,Hospital/other facility,<8
+15-19,rural,secondary,basotho,middle,not working,no,Hospital/other facility,<8
+20-24,rural,secondary,basotho,middle,not working,no,Home,<8
+30-34,rural,higher,basotho,poorer,not working,no,Hospital/other facility,<8
+25-29,rural,secondary,basotho,middle,unskilled manual,no,Hospital/other facility,<8
+25-29,rural,primary,basotho,poorer,not working,no,Hospital/other facility,<8
+25-29,rural,secondary,basotho,middle,not working,no,Hospital/other facility,<8
+15-19,rural,secondary,basotho,poorer,not working,no,Hospital/other facility,<8
+15-19,rural,primary,basotho,poorest,not working,no,Hospital/other facility,<8
+20-24,rural,secondary,basotho,poorer,not working,yes,Hospital/other facility,<8
+35-39,rural,primary,basotho,poorest,not working,no,Hospital/other facility,8/more
+20-24,rural,secondary,basotho,poorer,not working,no,Hospital/other facility,8/more
+35-39,rural,secondary,basotho,poorer,not working,no,Home,8/more
+20-24,rural,secondary,basotho,poorer,not working,no,Hospital/other facility,<8
+15-19,rural,primary,basotho,poorer,not working,no,Hospital/other facility,8/more
+25-29,rural,secondary,basotho,middle,not working,no,Hospital/other facility,<8
+20-24,rural,secondary,basotho,middle,not working,no,Home,<8
+15-19,rural,secondary,basotho,middle,not working,no,Hospital/other facility,<8
+20-24,rural,higher,basotho,middle,not working,no,Hospital/other facility,<8
+25-29,rural,secondary,basotho,middle,not working,no,Hospital/other facility,<8
+15-19,rural,primary,basotho,poorest,not working,no,Hospital/other facility,<8
+15-19,rural,secondary,basotho,poorest,not working,no,Hospital/other facility,8/more
+40-44,rural,secondary,basotho,poorest,not working,no,Home,<8
+20-24,rural,primary,basotho,poorer,not working,no,Hospital/other facility,<8
+15-19,rural,primary,basotho,poorer,not working,no,Home,<8
+35-39,rural,primary,basotho,poorest,agricultural - employee,no,Home,<8
+15-19,rural,primary,basotho,poorer,not working,no,Hospital/other facility,<8
+15-19,rural,secondary,basotho,poorest,not working,no,Hospital/other facility,<8
+25-29,rural,secondary,basotho,richer,not working,no,Hospital/other facility,<8
+25-29,rural,secondary,basotho,middle,not working,no,Hospital/other facility,8/more
+40-44,rural,primary,basotho,middle,not working,no,Hospital/other facility,<8
+25-29,rural,primary,basotho,richer,not working,no,Hospital/other facility,<8
+40-44,rural,secondary,basotho,middle,not working,no,Hospital/other facility,<8
+20-24,rural,secondary,basotho,middle,not working,yes,Hospital/other facility,<8
+15-19,rural,secondary,basotho,middle,not working,yes,Hospital/other facility,<8
+25-29,rural,primary,basotho,middle,not working,no,Hospital/other facility,<8
+20-24,rural,secondary,basotho,poorer,not working,no,Hospital/other facility,<8
+20-24,rural,secondary,basotho,richer,unskilled manual,yes,Hospital/other facility,<8
+25-29,rural,secondary,basotho,middle,not working,no,Hospital/other facility,<8
+25-29,rural,secondary,basotho,middle,not working,no,Hospital/other facility,<8
+35-39,rural,primary,basotho,poorer,not working,no,Hospital/other facility,<8
+20-24,rural,secondary,basotho,middle,not working,no,Hospital/other facility,<8
+40-44,rural,secondary,basotho,poorer,not working,no,Hospital/other facility,<8
+35-39,rural,secondary,basotho,middle,not working,no,Hospital/other facility,<8
+20-24,rural,secondary,basotho,middle,not working,no,Hospital/other facility,<8
+25-29,rural,primary,basotho,poorer,unskilled manual,no,Hospital/other facility,8/more
+20-24,rural,secondary,basotho,poorer,not working,no,Hospital/other facility,<8
+20-24,urban,primary,basotho,richer,not working,no,Hospital/other facility,<8
+20-24,urban,secondary,basotho,middle,not working,yes,Hospital/other facility,8/more
+40-44,urban,primary,basotho,richer,skilled manual,no,Hospital/other facility,<8
+35-39,urban,higher,basotho,richer,sales,no,Hospital/other facility,8/more
+15-19,urban,secondary,basotho,middle,not working,yes,Hospital/other facility,<8
+25-29,urban,higher,basotho,richer,not working,no,Home,<8
+20-24,urban,secondary,basotho,richer,not working,no,Hospital/other facility,<8
+30-34,urban,primary,basotho,middle,not working,no,Hospital/other facility,<8
+25-29,urban,secondary,basotho,richer,not working,no,Hospital/other facility,<8
+25-29,urban,higher,basotho,richer,sales,no,Hospital/other facility,<8
+30-34,urban,higher,other,richer,sales,no,Hospital/other facility,8/more
+20-24,urban,higher,basotho,richest,not working,no,Hospital/other facility,8/more
+25-29,urban,secondary,basotho,richer,not working,no,Hospital/other facility,<8
+25-29,urban,secondary,basotho,middle,not working,no,Hospital/other facility,8/more
+20-24,urban,secondary,basotho,middle,not working,no,Hospital/other facility,8/more
+20-24,urban,primary,basotho,richer,skilled manual,no,Hospital/other facility,<8
+20-24,urban,secondary,basotho,middle,not working,no,Hospital/other facility,8/more
+20-24,urban,secondary,basotho,richer,not working,no,Hospital/other facility,<8
+25-29,urban,secondary,basotho,richer,unskilled manual,no,Hospital/other facility,<8
+20-24,urban,secondary,basotho,richest,agricultural - self employed,no,Hospital/other facility,<8
+20-24,urban,secondary,basotho,richer,unskilled manual,no,Home,<8
+25-29,urban,primary,basotho,richest,sales,no,Hospital/other facility,<8
+20-24,urban,secondary,basotho,richest,unskilled manual,no,Hospital/other facility,8/more
+35-39,urban,primary,basotho,middle,not working,yes,Hospital/other facility,<8
+25-29,urban,secondary,basotho,richest,skilled manual,yes,Hospital/other facility,8/more
+30-34,urban,secondary,basotho,richest,not working,no,Hospital/other facility,<8
+30-34,urban,higher,basotho,richest,professional/technical/managerial,no,Hospital/other facility,<8
+30-34,urban,higher,basotho,richest,sales,yes,Hospital/other facility,8/more
+20-24,urban,primary,basotho,richer,not working,yes,Hospital/other facility,<8
+20-24,urban,secondary,maxhoza,richer,not working,no,Hospital/other facility,<8
+30-34,urban,secondary,basotho,richer,not working,no,Hospital/other facility,8/more
+20-24,rural,secondary,basotho,poorer,services,no,Hospital/other facility,<8
+30-34,rural,secondary,basotho,poorest,not working,no,Hospital/other facility,8/more
+25-29,rural,secondary,basotho,poorest,agricultural - employee,no,Hospital/other facility,<8
+15-19,rural,secondary,basotho,poorest,not working,no,Hospital/other facility,<8
+30-34,rural,secondary,basotho,poorest,not working,yes,Hospital/other facility,<8
+40-44,rural,no education,basotho,poorest,not working,yes,Hospital/other facility,<8
+25-29,rural,secondary,basotho,poorest,unskilled manual,no,Hospital/other facility,<8
+25-29,rural,no education,basotho,poorest,agricultural - employee,no,Hospital/other facility,8/more
+15-19,rural,secondary,basotho,poorest,not working,no,Hospital/other facility,<8
+25-29,rural,secondary,basotho,poorest,not working,no,Hospital/other facility,8/more
+30-34,rural,higher,basotho,poorest,clerical,no,Hospital/other facility,<8
+25-29,rural,secondary,basotho,poorer,not working,no,Home,<8
+30-34,rural,primary,basotho,poorest,not working,yes,Hospital/other facility,<8
+25-29,rural,secondary,basotho,middle,professional/technical/managerial,no,Hospital/other facility,<8
+30-34,rural,secondary,basotho,middle,professional/technical/managerial,yes,Hospital/other facility,<8
+25-29,rural,secondary,basotho,poorest,not working,no,Home,<8
+20-24,rural,secondary,basotho,poorer,not working,no,Hospital/other facility,8/more
+25-29,rural,secondary,basotho,poorest,not working,no,Hospital/other facility,<8
+40-44,rural,primary,basotho,middle,not working,no,Hospital/other facility,<8
+20-24,rural,secondary,basotho,poorer,sales,no,Hospital/other facility,8/more
+30-34,rural,higher,basotho,poorer,professional/technical/managerial,no,Hospital/other facility,<8
+15-19,rural,secondary,basotho,poorer,services,no,Hospital/other facility,<8
+20-24,rural,primary,basotho,middle,not working,no,Hospital/other facility,<8
+35-39,rural,primary,basotho,middle,not working,no,Hospital/other facility,8/more
+20-24,rural,secondary,basotho,middle,sales,no,Hospital/other facility,<8
+15-19,rural,secondary,basotho,richest,not working,yes,Hospital/other facility,<8
+30-34,rural,secondary,basotho,middle,not working,yes,Hospital/other facility,<8
+20-24,rural,higher,basotho,richer,sales,no,Hospital/other facility,<8
+20-24,rural,secondary,basotho,poorest,not working,yes,Hospital/other facility,8/more
+35-39,rural,primary,basotho,poorest,unskilled manual,yes,Hospital/other facility,<8
+20-24,rural,secondary,basotho,middle,sales,no,Hospital/other facility,<8
+15-19,rural,secondary,basotho,poorer,not working,yes,Hospital/other facility,<8
+35-39,rural,secondary,basotho,poorer,services,yes,Hospital/other facility,<8
+25-29,rural,primary,basotho,middle,services,no,Hospital/other facility,8/more
+15-19,rural,secondary,basotho,middle,not working,no,Hospital/other facility,<8
+20-24,rural,secondary,basotho,middle,not working,yes,Hospital/other facility,<8
+20-24,rural,primary,basotho,poorest,not working,no,Hospital/other facility,<8
+20-24,rural,secondary,basotho,poorer,not working,yes,Hospital/other facility,<8
+35-39,rural,secondary,basotho,poorer,agricultural - employee,no,Hospital/other facility,<8
+20-24,rural,primary,basotho,poorest,not working,no,Hospital/other facility,<8
+15-19,rural,secondary,basotho,poorest,not working,no,Hospital/other facility,<8
+20-24,rural,secondary,basotho,poorest,agricultural - employee,no,Hospital/other facility,<8
+25-29,rural,secondary,basotho,poorer,not working,no,Hospital/other facility,<8
+25-29,rural,primary,basotho,poorest,not working,no,Hospital/other facility,<8
+15-19,rural,secondary,basotho,poorest,unskilled manual,no,Home,8/more
+25-29,rural,secondary,basotho,poorest,not working,no,Hospital/other facility,<8
+30-34,rural,primary,basotho,poorer,services,no,Hospital/other facility,8/more
+35-39,rural,higher,basotho,poorer,professional/technical/managerial,no,Hospital/other facility,<8
+25-29,rural,secondary,maxhoza,poorer,not working,no,Hospital/other facility,<8
+35-39,rural,primary,basotho,poorer,services,no,Hospital/other facility,8/more
+20-24,rural,secondary,basotho,poorest,not working,no,Home,<8
+20-24,rural,primary,basotho,poorest,not working,no,Home,<8
+20-24,rural,secondary,basotho,poorest,unskilled manual,no,Hospital/other facility,<8
+40-44,rural,primary,basotho,poorest,not working,no,Hospital/other facility,<8
+20-24,rural,primary,basotho,poorest,not working,yes,Hospital/other facility,<8
+20-24,rural,primary,basotho,poorest,not working,no,Hospital/other facility,<8
+15-19,rural,primary,basotho,poorest,not working,no,Hospital/other facility,<8
+35-39,rural,primary,basotho,poorest,not working,no,Hospital/other facility,<8
+30-34,rural,primary,basotho,poorest,not working,no,Hospital/other facility,<8
+20-24,rural,primary,bathepu,poorest,not working,no,Hospital/other facility,<8
+25-29,rural,primary,basotho,poorest,agricultural - employee,no,Hospital/other facility,<8
+30-34,rural,primary,basotho,poorer,agricultural - employee,no,Hospital/other facility,<8
+20-24,rural,secondary,basotho,poorer,not working,no,Home,<8
+20-24,rural,primary,basotho,poorest,agricultural - employee,no,Hospital/other facility,<8
+20-24,rural,primary,basotho,poorest,not working,no,Hospital/other facility,8/more
+20-24,rural,secondary,basotho,poorest,not working,no,Hospital/other facility,<8
+20-24,rural,secondary,basotho,poorest,not working,yes,Hospital/other facility,<8
+15-19,rural,primary,basotho,middle,not working,no,Hospital/other facility,<8
+30-34,rural,primary,basotho,poorest,services,yes,Hospital/other facility,8/more
+25-29,rural,primary,basotho,poorest,not working,no,Hospital/other facility,<8
+15-19,rural,primary,basotho,poorest,not working,no,Home,<8
+30-34,rural,primary,basotho,poorest,not working,no,Hospital/other facility,<8
+20-24,rural,primary,basotho,poorest,not working,no,Hospital/other facility,<8
+20-24,rural,primary,basotho,poorest,not working,no,Home,8/more
+25-29,rural,primary,basotho,poorest,not working,no,Hospital/other facility,<8
+15-19,rural,primary,basotho,poorest,not working,no,Hospital/other facility,<8
+30-34,rural,secondary,basotho,poorest,not working,no,Hospital/other facility,8/more
+40-44,rural,primary,basotho,poorest,not working,no,Hospital/other facility,<8
+20-24,rural,primary,basotho,poorest,not working,no,Hospital/other facility,<8
+35-39,rural,primary,basotho,poorest,not working,no,Hospital/other facility,8/more
+30-34,rural,secondary,basotho,poorer,not working,no,Hospital/other facility,<8
+15-19,rural,secondary,basotho,poorer,not working,no,Hospital/other facility,<8
+25-29,rural,secondary,basotho,poorest,clerical,no,Hospital/other facility,<8
+15-19,rural,primary,basotho,poorer,not working,no,Hospital/other facility,<8
+20-24,rural,secondary,basotho,poorest,clerical,yes,Hospital/other facility,8/more
+20-24,rural,primary,basotho,poorest,not working,no,Hospital/other facility,<8
+15-19,rural,secondary,basotho,poorest,not working,no,Hospital/other facility,<8
+30-34,rural,secondary,basotho,poorest,not working,no,Hospital/other facility,<8
+20-24,rural,primary,basotho,poorest,not working,no,Hospital/other facility,<8
+20-24,rural,secondary,basotho,poorest,not working,yes,Hospital/other facility,<8
+30-34,rural,secondary,basotho,poorer,not working,no,Hospital/other facility,<8
+20-24,rural,primary,basotho,poorest,unskilled manual,no,Hospital/other facility,<8
+15-19,rural,secondary,basotho,poorest,not working,no,Home,<8
+20-24,rural,secondary,basotho,richer,agricultural - self employed,yes,Hospital/other facility,<8
+20-24,rural,primary,basotho,poorest,not working,no,Hospital/other facility,<8
+40-44,rural,higher,basotho,middle,professional/technical/managerial,no,Hospital/other facility,<8
+35-39,urban,higher,basotho,richer,not working,no,Hospital/other facility,<8
+25-29,urban,higher,basotho,middle,unskilled manual,no,Hospital/other facility,8/more
+25-29,urban,secondary,basotho,middle,not working,no,Hospital/other facility,8/more
+20-24,urban,primary,basotho,richest,not working,no,Hospital/other facility,<8
+20-24,urban,higher,basotho,richer,sales,no,Hospital/other facility,<8
+15-19,urban,secondary,maxhoza,poorer,sales,yes,Hospital/other facility,<8
+20-24,urban,secondary,basotho,richer,sales,no,Hospital/other facility,8/more
+20-24,urban,primary,basotho,richer,not working,no,Hospital/other facility,<8
+20-24,urban,higher,basotho,richest,not working,no,Hospital/other facility,8/more
+20-24,urban,secondary,basotho,middle,unskilled manual,no,Hospital/other facility,<8
+20-24,urban,secondary,basotho,richer,not working,yes,Hospital/other facility,<8
+30-34,urban,primary,basotho,richer,not working,no,Hospital/other facility,<8
+35-39,urban,secondary,basotho,richer,sales,no,Hospital/other facility,<8
+40-44,urban,primary,basotho,middle,sales,no,Hospital/other facility,<8
+15-19,urban,secondary,basotho,middle,services,no,Hospital/other facility,<8
+30-34,urban,primary,basotho,richest,not working,no,Hospital/other facility,8/more
+20-24,urban,higher,basotho,richer,not working,no,Hospital/other facility,<8
+25-29,urban,higher,basotho,richer,professional/technical/managerial,no,Hospital/other facility,<8
+20-24,urban,secondary,basotho,middle,not working,no,Hospital/other facility,8/more
+35-39,urban,secondary,basotho,richer,sales,yes,Hospital/other facility,<8
+40-44,urban,higher,basotho,richer,not working,yes,Hospital/other facility,8/more
+30-34,urban,secondary,basotho,poorer,unskilled manual,no,Hospital/other facility,<8
+25-29,urban,higher,basotho,richest,professional/technical/managerial,no,Hospital/other facility,8/more
+20-24,urban,secondary,basotho,middle,not working,no,Hospital/other facility,<8
+20-24,urban,secondary,basotho,richer,not working,no,Hospital/other facility,<8
+25-29,urban,secondary,basotho,richer,services,yes,Hospital/other facility,8/more
+15-19,urban,primary,basotho,middle,unskilled manual,no,Hospital/other facility,<8
+30-34,urban,secondary,basotho,middle,not working,no,Hospital/other facility,8/more
+35-39,urban,secondary,basotho,richest,not working,no,Hospital/other facility,<8
+30-34,urban,higher,basotho,richer,unskilled manual,no,Hospital/other facility,<8
+25-29,urban,higher,basotho,middle,unskilled manual,no,Hospital/other facility,<8
+20-24,urban,higher,basotho,richer,not working,no,Hospital/other facility,8/more
+45-49,urban,higher,basotho,richest,unskilled manual,yes,Hospital/other facility,<8
+20-24,urban,secondary,basotho,richest,unskilled manual,no,Hospital/other facility,<8
+20-24,urban,primary,basotho,richer,services,no,Hospital/other facility,8/more
+25-29,urban,secondary,basotho,middle,unskilled manual,no,Hospital/other facility,<8
+25-29,urban,primary,maxhoza,poorer,not working,no,Home,<8
+20-24,urban,higher,basotho,middle,services,no,Hospital/other facility,<8
+20-24,rural,secondary,basotho,middle,not working,yes,Hospital/other facility,<8
+25-29,rural,primary,basotho,poorest,agricultural - employee,no,Hospital/other facility,<8
+20-24,rural,primary,basotho,poorest,not working,no,Hospital/other facility,<8
+20-24,rural,primary,basotho,middle,sales,no,Hospital/other facility,<8
+35-39,rural,secondary,basotho,poorest,not working,no,Hospital/other facility,8/more
+20-24,rural,secondary,basotho,middle,not working,no,Hospital/other facility,<8
+25-29,rural,secondary,basotho,middle,services,no,Home,<8
+20-24,rural,secondary,basotho,middle,not working,no,Hospital/other facility,8/more
+15-19,rural,secondary,basotho,richest,not working,no,Hospital/other facility,<8
+20-24,rural,secondary,basotho,richer,not working,no,Hospital/other facility,<8
+35-39,rural,secondary,maxhoza,richer,unskilled manual,yes,Hospital/other facility,<8
+35-39,rural,secondary,basotho,richer,sales,no,Hospital/other facility,8/more
+15-19,rural,secondary,basotho,middle,unskilled manual,no,Hospital/other facility,<8
+20-24,rural,primary,bathepu,middle,not working,yes,Hospital/other facility,<8
+15-19,rural,secondary,basotho,poorer,not working,no,Hospital/other facility,<8
+30-34,rural,higher,basotho,richest,professional/technical/managerial,no,Hospital/other facility,8/more
+30-34,rural,secondary,basotho,richer,not working,no,Hospital/other facility,<8
+30-34,rural,primary,basotho,poorer,not working,no,Hospital/other facility,<8
+35-39,rural,primary,basotho,poorer,not working,no,Home,<8
+40-44,rural,secondary,basotho,middle,sales,no,Hospital/other facility,<8
+15-19,rural,secondary,maxhoza,poorest,not working,yes,Hospital/other facility,<8
+35-39,rural,primary,maxhoza,poorer,not working,no,Hospital/other facility,<8
+20-24,rural,secondary,basotho,poorest,not working,no,Hospital/other facility,8/more
+30-34,rural,primary,basotho,poorest,not working,no,Hospital/other facility,8/more
+35-39,rural,primary,maxhoza,poorest,not working,no,Home,<8
+25-29,rural,secondary,maxhoza,poorest,not working,yes,Hospital/other facility,<8
+25-29,rural,secondary,maxhoza,poorest,not working,no,Hospital/other facility,8/more
+20-24,rural,secondary,basotho,poorer,not working,no,Hospital/other facility,<8
+30-34,rural,primary,bathepu,poorest,unskilled manual,no,Hospital/other facility,<8
+35-39,rural,secondary,basotho,richer,not working,no,Hospital/other facility,<8
+30-34,rural,secondary,basotho,middle,sales,no,Hospital/other facility,<8
+25-29,rural,secondary,basotho,middle,not working,no,Hospital/other facility,<8
+30-34,rural,secondary,basotho,poorest,unskilled manual,no,Hospital/other facility,8/more
+25-29,rural,secondary,basotho,poorer,not working,no,Hospital/other facility,<8
+20-24,rural,primary,basotho,middle,unskilled manual,yes,Hospital/other facility,<8
+30-34,rural,primary,basotho,poorest,unskilled manual,no,Hospital/other facility,<8
+30-34,rural,primary,maxhoza,poorest,not working,no,Hospital/other facility,<8
+30-34,rural,primary,basotho,poorest,not working,no,Hospital/other facility,<8
+20-24,rural,primary,basotho,poorest,not working,no,Hospital/other facility,<8
+25-29,rural,primary,maxhoza,poorer,not working,no,Hospital/other facility,8/more
+20-24,rural,secondary,basotho,poorer,not working,no,Hospital/other facility,<8
+15-19,rural,secondary,basotho,poorest,not working,no,Hospital/other facility,<8
+20-24,rural,secondary,basotho,poorer,not working,yes,Hospital/other facility,<8
+15-19,rural,primary,basotho,poorest,sales,yes,Hospital/other facility,<8
+15-19,rural,secondary,maxhoza,poorest,not working,no,Hospital/other facility,<8
+25-29,rural,secondary,basotho,poorest,not working,no,Hospital/other facility,<8
+40-44,rural,primary,maxhoza,poorest,not working,no,Hospital/other facility,<8
+30-34,rural,primary,basotho,poorer,not working,no,Hospital/other facility,<8
+20-24,rural,primary,bathepu,poorest,not working,no,Hospital/other facility,<8
+25-29,rural,secondary,basotho,poorer,not working,yes,Hospital/other facility,8/more
+20-24,rural,secondary,basotho,middle,not working,no,Hospital/other facility,<8
+20-24,rural,primary,basotho,middle,not working,no,Home,<8
+20-24,rural,secondary,basotho,middle,not working,no,Hospital/other facility,<8
+25-29,rural,secondary,basotho,poorest,not working,no,Hospital/other facility,<8
+35-39,rural,primary,basotho,poorest,not working,no,Home,<8
+20-24,rural,primary,basotho,poorest,not working,no,Hospital/other facility,<8
+20-24,rural,secondary,basotho,poorest,agricultural - employee,no,Hospital/other facility,<8
+30-34,rural,secondary,basotho,poorest,not working,no,Hospital/other facility,<8
+15-19,rural,primary,basotho,poorest,not working,no,Home,<8
+25-29,rural,secondary,basotho,poorer,not working,no,Hospital/other facility,8/more
+15-19,rural,primary,maxhoza,poorest,not working,yes,Hospital/other facility,8/more
+25-29,rural,primary,maxhoza,poorest,not working,no,Home,<8
+25-29,rural,primary,bathepu,poorest,not working,yes,Hospital/other facility,8/more
+25-29,rural,primary,basotho,poorest,not working,no,Home,<8
+20-24,rural,primary,basotho,poorest,not working,no,Hospital/other facility,<8
+30-34,rural,primary,basotho,poorest,not working,no,Home,<8
+35-39,rural,secondary,basotho,poorest,not working,no,Hospital/other facility,<8
+20-24,rural,secondary,basotho,poorest,agricultural - employee,yes,Hospital/other facility,<8
+25-29,rural,secondary,basotho,poorer,not working,no,Hospital/other facility,<8
+20-24,rural,primary,basotho,poorest,not working,no,Hospital/other facility,8/more
+20-24,rural,secondary,basotho,poorest,not working,no,Hospital/other facility,<8
+30-34,rural,secondary,basotho,poorest,services,no,Hospital/other facility,<8
+30-34,rural,primary,basotho,poorest,not working,no,Hospital/other facility,<8
+25-29,rural,primary,basotho,poorer,not working,yes,Hospital/other facility,<8
+35-39,rural,primary,bathepu,poorest,sales,no,Home,<8
+40-44,rural,primary,basotho,poorer,not working,no,Hospital/other facility,<8
+20-24,rural,secondary,basotho,poorer,agricultural - employee,no,Hospital/other facility,<8
+25-29,rural,secondary,basotho,poorest,skilled manual,no,Hospital/other facility,<8
+20-24,rural,secondary,maxhoza,poorer,professional/technical/managerial,no,Hospital/other facility,<8
+20-24,rural,secondary,basotho,poorest,not working,no,Hospital/other facility,<8
+15-19,rural,primary,bathepu,poorest,not working,no,Hospital/other facility,<8
+20-24,rural,primary,bathepu,poorest,not working,no,Hospital/other facility,<8
+20-24,rural,secondary,bathepu,poorest,not working,no,Hospital/other facility,<8
+20-24,rural,primary,maxhoza,poorest,not working,yes,Hospital/other facility,8/more
+20-24,rural,secondary,basotho,poorer,not working,no,Hospital/other facility,<8
+20-24,rural,secondary,basotho,poorest,not working,no,Hospital/other facility,8/more
+30-34,rural,primary,basotho,poorest,professional/technical/managerial,no,Hospital/other facility,<8
+45-49,rural,no education,maxhoza,poorest,not working,no,Home,8/more
+30-34,urban,primary,basotho,poorer,not working,no,Hospital/other facility,<8
+20-24,urban,secondary,basotho,richer,not working,no,Hospital/other facility,<8
+25-29,urban,secondary,basotho,richer,not working,no,Hospital/other facility,<8
+15-19,urban,primary,basotho,middle,not working,no,Hospital/other facility,<8
+30-34,urban,secondary,bathepu,poorer,not working,no,Hospital/other facility,<8
+15-19,urban,secondary,basotho,poorer,not working,no,Hospital/other facility,<8
+25-29,urban,secondary,basotho,middle,unskilled manual,no,Hospital/other facility,<8
+15-19,urban,primary,basotho,richer,unskilled manual,no,Hospital/other facility,8/more
+30-34,urban,higher,basotho,richest,sales,no,Hospital/other facility,8/more
+30-34,urban,higher,basotho,richest,professional/technical/managerial,yes,Hospital/other facility,<8
+20-24,urban,secondary,basotho,middle,clerical,no,Hospital/other facility,8/more
+20-24,urban,secondary,basotho,middle,unskilled manual,no,Hospital/other facility,8/more
+25-29,urban,secondary,basotho,middle,not working,no,Hospital/other facility,8/more
+25-29,urban,secondary,basotho,richer,not working,no,Hospital/other facility,<8
+25-29,urban,higher,basotho,middle,not working,no,Hospital/other facility,<8
+20-24,urban,secondary,basotho,middle,unskilled manual,no,Hospital/other facility,8/more
+30-34,urban,secondary,basotho,middle,not working,yes,Hospital/other facility,8/more
+25-29,urban,higher,basotho,richest,professional/technical/managerial,no,Hospital/other facility,<8
+15-19,urban,secondary,basotho,richer,unskilled manual,no,Hospital/other facility,<8
+20-24,urban,primary,basotho,poorest,not working,yes,Hospital/other facility,<8
+20-24,urban,secondary,basotho,richest,sales,no,Hospital/other facility,<8
+30-34,urban,secondary,basotho,richer,not working,no,Hospital/other facility,<8
+20-24,urban,secondary,basotho,richest,not working,no,Hospital/other facility,<8
+20-24,urban,secondary,basotho,richer,unskilled manual,no,Hospital/other facility,<8
+35-39,urban,secondary,basotho,poorer,unskilled manual,yes,Hospital/other facility,8/more
+40-44,urban,secondary,basotho,richer,sales,no,Hospital/other facility,8/more
+25-29,urban,secondary,basotho,middle,not working,no,Hospital/other facility,<8
+20-24,urban,secondary,bathepu,middle,unskilled manual,no,Hospital/other facility,8/more
+20-24,urban,secondary,maxhoza,poorer,not working,no,Hospital/other facility,8/more
+20-24,urban,secondary,maxhoza,poorer,not working,no,Hospital/other facility,<8
+25-29,urban,primary,basotho,poorer,not working,no,Hospital/other facility,<8
+20-24,urban,secondary,basotho,middle,not working,no,Hospital/other facility,<8
+20-24,urban,secondary,basotho,richer,not working,no,Hospital/other facility,<8
+30-34,urban,secondary,basotho,richer,not working,yes,Hospital/other facility,<8
+20-24,urban,primary,basotho,richer,not working,no,Hospital/other facility,<8
+20-24,urban,secondary,basotho,richer,not working,no,Hospital/other facility,8/more
+20-24,urban,secondary,basotho,poorest,not working,no,Home,<8
+30-34,rural,higher,basotho,richest,not working,no,Hospital/other facility,<8
+40-44,rural,primary,basotho,middle,not working,yes,Hospital/other facility,8/more
+20-24,rural,secondary,basotho,middle,unskilled manual,no,Hospital/other facility,<8
+35-39,rural,secondary,basotho,richest,clerical,no,Hospital/other facility,8/more
+30-34,rural,secondary,basotho,richest,sales,no,Hospital/other facility,8/more
+15-19,rural,secondary,basotho,middle,not working,no,Hospital/other facility,<8
+20-24,rural,secondary,basotho,poorer,not working,no,Hospital/other facility,<8
+20-24,rural,secondary,basotho,poorer,unskilled manual,no,Hospital/other facility,<8
+20-24,rural,secondary,basotho,middle,unskilled manual,no,Hospital/other facility,<8
+25-29,rural,secondary,basotho,middle,not working,yes,Hospital/other facility,<8
+20-24,rural,secondary,basotho,middle,not working,yes,Hospital/other facility,<8
+20-24,rural,secondary,basotho,middle,not working,yes,Hospital/other facility,8/more
+25-29,rural,primary,basotho,poorer,not working,no,Hospital/other facility,<8
+20-24,rural,primary,basotho,poorer,sales,no,Hospital/other facility,<8
+20-24,rural,secondary,basotho,poorest,not working,no,Hospital/other facility,<8
+20-24,rural,secondary,basotho,poorest,not working,no,Hospital/other facility,<8
+25-29,rural,secondary,basotho,richest,not working,no,Hospital/other facility,8/more
+20-24,rural,primary,basotho,poorer,unskilled manual,no,Hospital/other facility,8/more
+40-44,rural,primary,basotho,poorer,not working,no,Hospital/other facility,8/more
+40-44,rural,primary,basotho,poorest,not working,no,Hospital/other facility,8/more
+20-24,rural,secondary,basotho,poorer,not working,yes,Hospital/other facility,<8
+25-29,rural,primary,basotho,poorest,not working,no,Hospital/other facility,<8
+15-19,rural,secondary,basotho,poorest,not working,no,Hospital/other facility,<8
+30-34,rural,primary,basotho,poorer,not working,no,Hospital/other facility,<8
+20-24,rural,primary,basotho,poorest,not working,no,Hospital/other facility,<8
+15-19,rural,primary,basotho,poorest,not working,no,Hospital/other facility,<8
+35-39,rural,primary,maxhoza,poorer,not working,no,Hospital/other facility,<8
+15-19,rural,secondary,bathepu,poorer,not working,yes,Hospital/other facility,<8
+15-19,rural,primary,basotho,poorest,not working,no,Hospital/other facility,8/more
+35-39,rural,primary,bathepu,poorest,not working,no,Hospital/other facility,<8
+35-39,rural,primary,basotho,poorest,not working,no,Hospital/other facility,<8
+20-24,rural,primary,basotho,poorest,not working,no,Hospital/other facility,<8
+15-19,rural,primary,basotho,poorest,not working,no,Hospital/other facility,<8
+20-24,rural,secondary,basotho,poorer,not working,no,Hospital/other facility,<8
+20-24,rural,primary,basotho,poorest,not working,no,Hospital/other facility,<8
+30-34,rural,secondary,basotho,poorest,not working,yes,Hospital/other facility,<8
+20-24,rural,primary,bathepu,poorest,not working,no,Hospital/other facility,<8
+15-19,rural,primary,bathepu,poorest,not working,no,Hospital/other facility,<8
+20-24,rural,primary,bathepu,poorest,not working,no,Hospital/other facility,<8
+35-39,rural,primary,basotho,poorest,not working,no,Hospital/other facility,<8
+15-19,rural,primary,basotho,poorest,not working,no,Hospital/other facility,<8
+40-44,rural,primary,basotho,poorest,not working,no,Hospital/other facility,<8
+20-24,rural,secondary,basotho,poorest,not working,no,Hospital/other facility,<8
+35-39,rural,no education,basotho,poorest,not working,no,Home,<8
+20-24,rural,primary,basotho,poorest,not working,no,Hospital/other facility,<8
+25-29,rural,secondary,basotho,poorest,not working,no,Hospital/other facility,<8
+25-29,rural,secondary,basotho,poorer,not working,yes,Hospital/other facility,<8
+25-29,rural,secondary,basotho,middle,sales,no,Hospital/other facility,<8
+20-24,rural,secondary,basotho,poorest,not working,no,Home,<8
+20-24,rural,secondary,basotho,middle,sales,no,Hospital/other facility,<8
+25-29,rural,secondary,basotho,poorest,unskilled manual,yes,Hospital/other facility,<8
+30-34,rural,primary,basotho,poorer,not working,no,Hospital/other facility,<8
+15-19,rural,primary,basotho,poorest,not working,no,Hospital/other facility,<8
+20-24,rural,secondary,basotho,poorest,not working,no,Hospital/other facility,<8
+35-39,rural,primary,basotho,poorest,not working,no,Hospital/other facility,<8
+25-29,rural,secondary,basotho,poorest,not working,yes,Hospital/other facility,<8
+25-29,rural,primary,bathepu,poorer,not working,no,Hospital/other facility,8/more
+40-44,rural,primary,bathepu,poorest,not working,no,Hospital/other facility,<8
+30-34,rural,primary,basotho,poorer,not working,no,Hospital/other facility,8/more
+20-24,rural,secondary,maxhoza,poorest,not working,no,Hospital/other facility,<8
+15-19,rural,primary,basotho,poorest,not working,no,Home,<8
+15-19,rural,secondary,bathepu,poorest,not working,no,Hospital/other facility,<8
+20-24,rural,secondary,basotho,poorest,not working,no,Hospital/other facility,8/more
+20-24,rural,primary,bathepu,poorest,not working,no,Hospital/other facility,<8
+30-34,rural,primary,basotho,poorest,not working,no,Hospital/other facility,<8
+30-34,rural,secondary,basotho,middle,not working,yes,Hospital/other facility,8/more
+25-29,rural,secondary,maxhoza,richer,unskilled manual,no,Hospital/other facility,<8
+30-34,rural,secondary,basotho,richer,agricultural - employee,yes,Hospital/other facility,8/more
+35-39,rural,primary,basotho,middle,unskilled manual,no,Hospital/other facility,<8
+30-34,rural,secondary,basotho,poorer,not working,yes,Hospital/other facility,<8
+25-29,rural,secondary,basotho,poorer,not working,no,Home,<8
+20-24,rural,higher,basotho,richest,sales,no,Hospital/other facility,<8
+20-24,rural,primary,basotho,poorer,not working,no,Home,<8
+15-19,rural,secondary,basotho,poorest,not working,yes,Hospital/other facility,<8
+25-29,rural,secondary,basotho,middle,not working,no,Hospital/other facility,<8
+20-24,rural,secondary,basotho,middle,not working,no,Hospital/other facility,8/more
+20-24,rural,secondary,other,middle,sales,no,Hospital/other facility,<8
+20-24,rural,secondary,basotho,middle,not working,no,Hospital/other facility,<8
+15-19,rural,secondary,basotho,richer,not working,no,Hospital/other facility,<8
+20-24,rural,secondary,basotho,richer,not working,no,Hospital/other facility,<8
+25-29,rural,secondary,basotho,richer,unskilled manual,no,Hospital/other facility,8/more
+20-24,rural,secondary,maxhoza,middle,not working,no,Hospital/other facility,<8
+20-24,rural,secondary,basotho,middle,not working,no,Hospital/other facility,8/more
+30-34,rural,secondary,maxhoza,middle,sales,no,Hospital/other facility,8/more
+30-34,rural,secondary,basotho,poorer,sales,yes,Hospital/other facility,<8
+25-29,rural,secondary,basotho,poorer,not working,no,Hospital/other facility,<8
+30-34,rural,secondary,basotho,poorest,not working,no,Hospital/other facility,8/more
+20-24,rural,secondary,bathepu,poorer,not working,no,Hospital/other facility,<8
+15-19,rural,secondary,basotho,poorest,not working,no,Hospital/other facility,<8
+15-19,rural,secondary,maxhoza,poorer,not working,yes,Hospital/other facility,<8
+25-29,rural,primary,bathepu,poorest,not working,no,Hospital/other facility,<8
+20-24,rural,secondary,bathepu,poorest,not working,no,Hospital/other facility,8/more
+30-34,rural,secondary,maxhoza,poorest,unskilled manual,no,Hospital/other facility,<8
+35-39,rural,primary,bathepu,poorest,not working,no,Home,<8
+30-34,rural,secondary,basotho,poorer,not working,no,Hospital/other facility,<8
+15-19,rural,secondary,basotho,poorest,not working,no,Hospital/other facility,<8
+25-29,rural,primary,maxhoza,poorest,not working,no,Hospital/other facility,<8
+20-24,rural,secondary,basotho,poorest,not working,no,Hospital/other facility,<8
+20-24,rural,secondary,basotho,poorest,not working,yes,Hospital/other facility,<8
+25-29,urban,higher,basotho,richest,sales,no,Hospital/other facility,8/more
+30-34,urban,secondary,basotho,richer,not working,no,Hospital/other facility,8/more
+20-24,urban,secondary,basotho,middle,sales,no,Hospital/other facility,<8
+20-24,urban,secondary,basotho,middle,unskilled manual,no,Hospital/other facility,8/more
+25-29,urban,secondary,basotho,richest,unskilled manual,no,Hospital/other facility,8/more
+25-29,urban,secondary,basotho,richer,sales,no,Hospital/other facility,8/more
+20-24,urban,secondary,basotho,middle,not working,no,Hospital/other facility,<8
+30-34,urban,higher,basotho,richer,sales,no,Hospital/other facility,<8
+30-34,urban,secondary,basotho,middle,not working,no,Hospital/other facility,<8
+20-24,urban,secondary,bathepu,poorer,not working,no,Hospital/other facility,8/more
+25-29,urban,secondary,basotho,richer,not working,no,Hospital/other facility,8/more
+30-34,urban,primary,basotho,richest,not working,yes,Hospital/other facility,8/more
+35-39,urban,primary,basotho,middle,unskilled manual,no,Hospital/other facility,8/more
+30-34,urban,secondary,basotho,poorer,not working,no,Hospital/other facility,<8
+40-44,urban,secondary,basotho,richer,not working,no,Hospital/other facility,<8
+30-34,urban,secondary,basotho,middle,skilled manual,yes,Hospital/other facility,8/more
+30-34,urban,secondary,basotho,richest,not working,no,Hospital/other facility,8/more
+30-34,urban,secondary,basotho,middle,not working,no,Hospital/other facility,<8
+25-29,urban,secondary,basotho,richer,skilled manual,yes,Hospital/other facility,8/more
+25-29,urban,secondary,basotho,middle,not working,no,Hospital/other facility,8/more
+25-29,urban,secondary,bathepu,middle,unskilled manual,yes,Hospital/other facility,8/more
+35-39,urban,secondary,basotho,middle,not working,no,Hospital/other facility,8/more
+15-19,urban,secondary,basotho,richer,not working,no,Hospital/other facility,<8
+25-29,urban,higher,basotho,middle,not working,no,Hospital/other facility,<8
+20-24,urban,primary,basotho,poorest,not working,no,Hospital/other facility,<8
+25-29,urban,secondary,bathepu,richer,not working,no,Hospital/other facility,<8
+20-24,urban,secondary,basotho,middle,not working,no,Hospital/other facility,<8
+20-24,urban,primary,basotho,poorer,not working,no,Hospital/other facility,8/more
+25-29,urban,secondary,basotho,poorer,not working,no,Hospital/other facility,<8
+20-24,urban,secondary,basotho,richer,not working,no,Hospital/other facility,<8
+25-29,urban,secondary,basotho,middle,not working,no,Hospital/other facility,<8
+20-24,urban,secondary,basotho,middle,not working,no,Hospital/other facility,8/more
+25-29,urban,primary,basotho,poorest,not working,yes,Hospital/other facility,8/more
+25-29,urban,higher,basotho,poorer,not working,no,Hospital/other facility,<8
+20-24,rural,primary,basotho,poorer,not working,no,Hospital/other facility,<8
+20-24,rural,primary,basotho,poorest,unskilled manual,no,Home,8/more
+20-24,rural,secondary,basotho,poorest,not working,no,Hospital/other facility,<8
+25-29,rural,secondary,basotho,middle,not working,no,Hospital/other facility,8/more
+35-39,rural,primary,basotho,richer,unskilled manual,no,Hospital/other facility,<8
+25-29,rural,secondary,basotho,richer,services,yes,Hospital/other facility,8/more
+25-29,rural,secondary,basotho,middle,not working,yes,Hospital/other facility,<8
+20-24,rural,higher,basotho,richest,not working,no,Hospital/other facility,8/more
+30-34,rural,secondary,basotho,middle,agricultural - self employed,yes,Hospital/other facility,<8
+20-24,rural,secondary,basotho,poorest,unskilled manual,no,Hospital/other facility,<8
+20-24,rural,secondary,basotho,poorest,not working,no,Hospital/other facility,8/more
+30-34,rural,secondary,basotho,richer,sales,no,Hospital/other facility,<8
+30-34,rural,secondary,bathepu,middle,sales,no,Hospital/other facility,8/more
+25-29,rural,secondary,basotho,richer,unskilled manual,no,Hospital/other facility,<8
+25-29,rural,no education,other,middle,not working,yes,Hospital/other facility,8/more
+20-24,rural,secondary,basotho,middle,not working,no,Hospital/other facility,<8
+20-24,rural,secondary,basotho,poorer,agricultural - self employed,no,Hospital/other facility,<8
+35-39,rural,primary,basotho,poorest,not working,no,Home,<8
+35-39,rural,primary,basotho,poorest,unskilled manual,no,Home,<8
+20-24,rural,secondary,basotho,poorest,not working,no,Hospital/other facility,<8
+20-24,rural,primary,basotho,poorest,not working,no,Hospital/other facility,<8
+25-29,rural,secondary,basotho,poorest,unskilled manual,yes,Hospital/other facility,8/more
+15-19,rural,secondary,basotho,poorer,sales,no,Hospital/other facility,8/more
+15-19,rural,secondary,basotho,poorer,not working,yes,Hospital/other facility,<8
+15-19,rural,secondary,basotho,poorer,not working,yes,Hospital/other facility,8/more
+35-39,rural,secondary,basotho,middle,unskilled manual,no,Hospital/other facility,<8
+30-34,rural,primary,basotho,poorer,not working,yes,Hospital/other facility,<8
+15-19,rural,secondary,basotho,poorer,not working,no,Hospital/other facility,<8
+30-34,rural,secondary,basotho,poorer,unskilled manual,no,Hospital/other facility,<8
+25-29,rural,secondary,basotho,poorer,sales,no,Hospital/other facility,<8
+25-29,rural,secondary,basotho,poorer,not working,no,Hospital/other facility,<8
+30-34,rural,primary,basotho,poorest,not working,yes,Hospital/other facility,<8
+40-44,rural,primary,basotho,poorer,not working,no,Hospital/other facility,8/more
+20-24,rural,primary,basotho,poorer,not working,no,Hospital/other facility,8/more
+30-34,rural,secondary,basotho,poorest,unskilled manual,no,Hospital/other facility,<8
+25-29,rural,primary,basotho,poorest,not working,no,Hospital/other facility,8/more
+35-39,rural,primary,basotho,poorest,not working,no,Hospital/other facility,8/more
+15-19,rural,primary,basotho,poorest,not working,yes,Hospital/other facility,<8
+25-29,rural,primary,basotho,poorest,not working,no,Home,<8
+20-24,rural,primary,basotho,poorest,not working,no,Hospital/other facility,<8
+15-19,rural,secondary,basotho,poorest,not working,no,Hospital/other facility,8/more
+15-19,rural,primary,basotho,poorest,not working,no,Hospital/other facility,<8
+20-24,rural,secondary,basotho,poorest,not working,no,Hospital/other facility,<8
+30-34,rural,primary,basotho,poorest,not working,no,Home,<8
+20-24,rural,secondary,basotho,poorest,not working,no,Hospital/other facility,8/more
+30-34,rural,secondary,basotho,poorest,clerical,yes,Hospital/other facility,<8
+20-24,rural,secondary,basotho,poorer,not working,no,Hospital/other facility,<8
+40-44,rural,no education,basotho,poorest,not working,no,Home,<8
+35-39,rural,no education,basotho,poorest,not working,no,Hospital/other facility,<8
+20-24,rural,secondary,basotho,poorest,not working,no,Hospital/other facility,<8
+20-24,rural,secondary,basotho,poorest,not working,no,Hospital/other facility,<8
+20-24,rural,primary,basotho,poorest,not working,yes,Hospital/other facility,<8
+35-39,rural,primary,basotho,poorest,unskilled manual,no,Hospital/other facility,<8
+30-34,rural,primary,basotho,poorest,agricultural - self employed,no,Hospital/other facility,<8
+15-19,rural,secondary,basotho,poorest,not working,no,Hospital/other facility,<8
+20-24,rural,secondary,basotho,middle,not working,no,Hospital/other facility,<8
+20-24,rural,secondary,basotho,poorest,not working,no,Hospital/other facility,8/more
+20-24,rural,primary,basotho,poorest,not working,no,Hospital/other facility,<8
+20-24,rural,primary,basotho,poorest,not working,no,Hospital/other facility,<8
+40-44,rural,primary,basotho,poorest,unskilled manual,no,Home,<8
+40-44,rural,primary,basotho,poorest,unskilled manual,no,Home,<8
+15-19,rural,primary,basotho,poorer,not working,no,Hospital/other facility,8/more
+15-19,rural,primary,basotho,poorest,not working,no,Home,<8
+25-29,rural,secondary,basotho,poorest,not working,yes,Hospital/other facility,<8
+15-19,rural,primary,basotho,poorest,agricultural - self employed,no,Hospital/other facility,<8
+15-19,rural,secondary,basotho,poorer,not working,no,Hospital/other facility,8/more
+30-34,rural,secondary,basotho,poorest,not working,yes,Hospital/other facility,<8
+20-24,rural,secondary,basotho,poorer,not working,no,Home,<8
+20-24,rural,secondary,basotho,poorer,clerical,no,Home,8/more
+20-24,rural,secondary,basotho,poorer,not working,no,Hospital/other facility,<8
+15-19,rural,secondary,basotho,middle,not working,yes,Hospital/other facility,<8
+20-24,rural,secondary,basotho,middle,sales,yes,Hospital/other facility,<8
+20-24,rural,secondary,basotho,middle,not working,no,Hospital/other facility,<8
+35-39,rural,secondary,basotho,poorer,clerical,no,Hospital/other facility,<8
+25-29,rural,primary,basotho,poorest,not working,no,Hospital/other facility,<8
+25-29,rural,secondary,basotho,poorest,not working,no,Hospital/other facility,<8
+20-24,rural,secondary,basotho,poorest,not working,no,Hospital/other facility,<8
+25-29,rural,secondary,basotho,poorer,not working,no,Hospital/other facility,<8
+25-29,rural,primary,basotho,poorest,not working,no,Hospital/other facility,<8
+40-44,rural,primary,basotho,poorest,not working,yes,Hospital/other facility,<8
+20-24,rural,secondary,basotho,poorest,not working,yes,Hospital/other facility,<8
+15-19,rural,primary,basotho,poorest,not working,no,Home,<8
+20-24,rural,primary,basotho,poorest,unskilled manual,no,Hospital/other facility,<8
+20-24,rural,primary,bathepu,poorest,agricultural - self employed,yes,Hospital/other facility,<8
+25-29,rural,secondary,basotho,poorest,agricultural - self employed,no,Hospital/other facility,8/more
+25-29,rural,primary,basotho,poorest,not working,no,Home,8/more
+30-34,rural,primary,basotho,poorest,not working,no,Hospital/other facility,<8
+20-24,rural,secondary,basotho,poorer,not working,no,Hospital/other facility,<8
+20-24,rural,secondary,basotho,poorest,not working,no,Hospital/other facility,<8
+40-44,rural,secondary,basotho,poorest,agricultural - self employed,no,Home,<8
+40-44,rural,secondary,basotho,poorest,not working,no,Hospital/other facility,<8
+35-39,rural,primary,basotho,poorest,not working,no,Hospital/other facility,<8
+30-34,rural,primary,basotho,poorest,not working,no,Home,<8
+20-24,rural,secondary,basotho,poorest,not working,no,Hospital/other facility,<8
+20-24,rural,secondary,basotho,poorest,not working,no,Hospital/other facility,8/more
+25-29,rural,secondary,basotho,poorer,unskilled manual,no,Hospital/other facility,8/more
+15-19,rural,secondary,basotho,poorest,agricultural - employee,yes,Hospital/other facility,8/more
+20-24,rural,secondary,basotho,poorer,not working,no,Hospital/other facility,8/more
+20-24,rural,primary,basotho,poorest,not working,no,Home,<8
+25-29,rural,primary,bathepu,poorer,not working,no,Hospital/other facility,8/more
+20-24,rural,secondary,basotho,poorer,not working,no,Hospital/other facility,<8
+25-29,rural,primary,basotho,poorer,agricultural - self employed,no,Hospital/other facility,<8
+20-24,rural,primary,basotho,poorer,unskilled manual,no,Hospital/other facility,<8
+20-24,rural,primary,basotho,poorest,not working,yes,Hospital/other facility,<8
+45-49,rural,secondary,basotho,poorest,skilled manual,no,Hospital/other facility,<8
+30-34,rural,primary,basotho,poorer,not working,no,Hospital/other facility,<8
+20-24,rural,secondary,basotho,middle,not working,no,Hospital/other facility,8/more
+25-29,rural,secondary,basotho,poorer,agricultural - employee,no,Hospital/other facility,8/more
+20-24,rural,primary,basotho,poorest,agricultural - employee,no,Home,<8
+30-34,rural,higher,basotho,poorer,unskilled manual,no,Hospital/other facility,8/more
+30-34,rural,primary,basotho,poorer,services,yes,Hospital/other facility,8/more
+20-24,rural,secondary,basotho,poorest,not working,no,Hospital/other facility,<8
+40-44,rural,secondary,basotho,middle,unskilled manual,no,Hospital/other facility,<8
+25-29,rural,secondary,bathepu,poorest,not working,no,Hospital/other facility,<8
+20-24,rural,primary,bathepu,poorest,not working,no,Hospital/other facility,8/more
+35-39,rural,primary,basotho,poorest,not working,yes,Hospital/other facility,<8
+25-29,rural,primary,basotho,poorest,not working,yes,Hospital/other facility,8/more
+20-24,rural,secondary,basotho,poorest,not working,yes,Hospital/other facility,<8
+25-29,rural,secondary,basotho,poorest,sales,no,Hospital/other facility,8/more
+20-24,rural,primary,basotho,poorest,not working,no,Home,<8
+35-39,rural,primary,basotho,poorer,not working,no,Hospital/other facility,<8
+20-24,rural,secondary,basotho,poorest,not working,no,Hospital/other facility,8/more
+30-34,rural,secondary,basotho,poorest,not working,no,Hospital/other facility,8/more
+20-24,rural,secondary,basotho,poorest,not working,no,Hospital/other facility,8/more
+20-24,rural,secondary,basotho,poorer,not working,no,Hospital/other facility,<8
+35-39,rural,primary,basotho,poorest,not working,no,Hospital/other facility,8/more
+15-19,rural,secondary,basotho,poorer,not working,no,Hospital/other facility,<8
+15-19,rural,primary,basotho,poorest,not working,no,Hospital/other facility,<8
+20-24,rural,primary,basotho,poorest,not working,no,Home,<8
+40-44,rural,primary,basotho,poorest,not working,no,Hospital/other facility,<8
+15-19,rural,primary,basotho,poorest,not working,no,Hospital/other facility,<8
+20-24,rural,secondary,maxhoza,poorest,agricultural - self employed,no,Hospital/other facility,<8
+40-44,rural,primary,basotho,poorest,not working,yes,Hospital/other facility,8/more
+30-34,rural,secondary,basotho,poorest,professional/technical/managerial,no,Hospital/other facility,<8
+20-24,rural,secondary,basotho,poorest,not working,yes,Hospital/other facility,8/more
+25-29,urban,secondary,basotho,richer,not working,yes,Hospital/other facility,<8
+25-29,urban,secondary,basotho,middle,not working,no,Hospital/other facility,8/more
+35-39,urban,higher,basotho,richest,professional/technical/managerial,no,Hospital/other facility,8/more
+30-34,urban,primary,basotho,poorer,not working,yes,Hospital/other facility,8/more
+30-34,urban,secondary,basotho,poorer,not working,yes,Hospital/other facility,<8
+30-34,urban,secondary,basotho,middle,not working,no,Home,<8
+20-24,urban,secondary,basotho,richest,not working,no,Hospital/other facility,8/more
+25-29,urban,secondary,basotho,richer,sales,no,Hospital/other facility,<8
+20-24,urban,secondary,basotho,poorer,not working,no,Hospital/other facility,<8
+40-44,urban,secondary,basotho,middle,not working,no,Hospital/other facility,<8
+30-34,urban,secondary,basotho,richest,professional/technical/managerial,no,Hospital/other facility,8/more
+30-34,urban,higher,basotho,middle,not working,no,Hospital/other facility,<8
+25-29,urban,secondary,basotho,richer,clerical,no,Hospital/other facility,<8
+25-29,urban,no education,basotho,poorer,not working,no,Hospital/other facility,8/more
+30-34,urban,secondary,basotho,richer,sales,no,Hospital/other facility,<8
+30-34,urban,secondary,basotho,middle,sales,yes,Hospital/other facility,<8
+25-29,urban,higher,basotho,richest,sales,no,Hospital/other facility,<8
+25-29,urban,secondary,basotho,richer,skilled manual,yes,Hospital/other facility,<8
+25-29,rural,secondary,basotho,middle,not working,yes,Hospital/other facility,8/more
+20-24,rural,secondary,basotho,poorer,not working,no,Hospital/other facility,<8
+30-34,rural,primary,maxhoza,richer,not working,no,Hospital/other facility,<8
+30-34,rural,secondary,basotho,middle,not working,no,Hospital/other facility,<8
+30-34,rural,secondary,basotho,middle,not working,no,Hospital/other facility,<8
+40-44,rural,primary,basotho,poorest,not working,no,Hospital/other facility,<8
+20-24,rural,primary,basotho,poorest,not working,no,Hospital/other facility,<8
+20-24,rural,secondary,basotho,middle,not working,no,Hospital/other facility,<8
+15-19,rural,secondary,basotho,middle,not working,no,Hospital/other facility,<8
+30-34,rural,primary,basotho,middle,not working,no,Hospital/other facility,<8
+25-29,rural,primary,basotho,poorest,not working,no,Hospital/other facility,<8
+25-29,rural,secondary,bathepu,poorest,not working,no,Hospital/other facility,<8
+30-34,rural,secondary,basotho,richer,not working,yes,Hospital/other facility,<8
+35-39,rural,secondary,basotho,richer,not working,no,Home,<8
+15-19,rural,primary,basotho,poorer,not working,no,Hospital/other facility,<8
+25-29,rural,secondary,basotho,richer,not working,no,Hospital/other facility,<8
+35-39,rural,secondary,basotho,middle,professional/technical/managerial,no,Hospital/other facility,<8
+35-39,rural,secondary,basotho,richer,sales,yes,Hospital/other facility,<8
+30-34,rural,secondary,basotho,middle,not working,no,Hospital/other facility,<8
+25-29,rural,secondary,basotho,poorest,not working,no,Hospital/other facility,<8
+25-29,rural,secondary,basotho,poorest,not working,yes,Hospital/other facility,<8
+20-24,rural,secondary,basotho,poorest,not working,no,Hospital/other facility,<8
+35-39,rural,primary,basotho,poorest,not working,no,Hospital/other facility,<8
+30-34,rural,primary,bathepu,poorest,not working,no,Hospital/other facility,<8
+15-19,rural,secondary,basotho,poorest,not working,yes,Hospital/other facility,<8
+20-24,rural,primary,basotho,poorest,not working,no,Hospital/other facility,<8
+30-34,rural,secondary,basotho,poorest,not working,no,Hospital/other facility,<8
+15-19,rural,primary,bathepu,poorest,not working,yes,Hospital/other facility,<8
+30-34,rural,primary,basotho,poorest,not working,no,Home,<8
+30-34,rural,secondary,basotho,poorest,not working,no,Hospital/other facility,<8
+30-34,rural,secondary,basotho,poorest,unskilled manual,no,Home,<8
+20-24,rural,secondary,bathepu,poorest,not working,no,Hospital/other facility,<8
+20-24,rural,secondary,basotho,poorest,not working,no,Hospital/other facility,<8
+25-29,rural,primary,basotho,poorest,not working,no,Home,<8
+15-19,rural,primary,bathepu,poorest,not working,no,Home,<8
+35-39,rural,no education,maxhoza,poorest,not working,no,Home,<8
+20-24,rural,primary,basotho,poorest,not working,no,Hospital/other facility,<8
+20-24,rural,primary,basotho,poorest,not working,no,Home,8/more
+30-34,rural,primary,basotho,poorest,not working,no,Hospital/other facility,<8
+30-34,rural,primary,basotho,poorest,not working,no,Home,<8
+25-29,rural,primary,basotho,poorest,agricultural - employee,no,Hospital/other facility,<8
+15-19,rural,primary,basotho,poorest,not working,no,Home,<8
+25-29,rural,primary,basotho,poorest,not working,no,Hospital/other facility,<8
+30-34,rural,primary,basotho,poorest,not working,no,Hospital/other facility,<8
+35-39,rural,primary,basotho,poorest,not working,no,Home,<8
+35-39,rural,primary,bathepu,poorest,not working,no,Home,<8
+30-34,rural,primary,basotho,poorest,not working,no,Hospital/other facility,<8
+20-24,rural,primary,basotho,poorest,not working,no,Hospital/other facility,8/more
+25-29,rural,secondary,basotho,poorest,not working,no,Home,<8
+30-34,rural,primary,bathepu,poorest,not working,yes,Hospital/other facility,<8
+30-34,rural,primary,bathepu,poorest,not working,no,Hospital/other facility,<8
+15-19,rural,primary,bathepu,poorest,not working,no,Hospital/other facility,<8
+20-24,rural,primary,bathepu,poorest,not working,yes,Hospital/other facility,<8
+15-19,rural,primary,basotho,poorest,not working,no,Hospital/other facility,<8
+20-24,rural,secondary,basotho,poorest,agricultural - self employed,no,Hospital/other facility,<8
+30-34,rural,primary,bathepu,poorest,not working,no,Home,<8
+20-24,rural,secondary,basotho,middle,not working,no,Hospital/other facility,<8
+25-29,rural,primary,basotho,poorer,unskilled manual,no,Hospital/other facility,8/more
+20-24,rural,primary,basotho,poorest,not working,yes,Hospital/other facility,<8
+35-39,rural,secondary,basotho,poorer,not working,no,Hospital/other facility,8/more
+35-39,rural,primary,basotho,poorer,unskilled manual,no,Hospital/other facility,<8
+20-24,rural,secondary,basotho,poorer,unskilled manual,no,Hospital/other facility,<8
+25-29,rural,primary,basotho,poorest,not working,no,Hospital/other facility,8/more
+30-34,rural,secondary,basotho,poorest,not working,no,Hospital/other facility,<8
+25-29,rural,secondary,basotho,poorest,not working,no,Hospital/other facility,<8
+20-24,rural,secondary,basotho,poorest,professional/technical/managerial,no,Hospital/other facility,<8
+20-24,rural,secondary,basotho,poorest,not working,no,Home,<8
+20-24,rural,secondary,basotho,poorest,not working,yes,Hospital/other facility,<8
+15-19,rural,primary,basotho,poorest,not working,no,Hospital/other facility,8/more
+25-29,rural,primary,basotho,poorer,not working,no,Hospital/other facility,<8
+20-24,rural,secondary,basotho,poorest,not working,no,Hospital/other facility,<8
+15-19,rural,primary,basotho,poorest,not working,no,Hospital/other facility,<8
+20-24,rural,primary,basotho,poorest,not working,no,Hospital/other facility,<8
+20-24,rural,primary,basotho,poorest,not working,no,Hospital/other facility,<8
+20-24,rural,primary,basotho,poorer,not working,no,Hospital/other facility,<8
+30-34,rural,primary,basotho,poorer,sales,no,Home,<8
+25-29,rural,primary,basotho,poorer,not working,no,Hospital/other facility,<8
+25-29,rural,secondary,basotho,poorest,not working,no,Hospital/other facility,<8
+20-24,rural,secondary,basotho,poorest,not working,no,Hospital/other facility,<8
+20-24,rural,secondary,basotho,poorest,not working,no,Hospital/other facility,<8
+15-19,rural,secondary,basotho,poorest,not working,no,Hospital/other facility,<8
+25-29,rural,primary,basotho,poorest,not working,no,Home,<8
+20-24,rural,primary,basotho,poorest,not working,no,Hospital/other facility,<8
+20-24,rural,primary,basotho,poorest,not working,no,Hospital/other facility,<8
+35-39,rural,primary,basotho,poorest,not working,no,Hospital/other facility,8/more
+20-24,rural,secondary,basotho,poorest,not working,no,Hospital/other facility,8/more
+20-24,rural,primary,basotho,poorest,not working,no,Hospital/other facility,<8
+45-49,rural,primary,bathepu,poorest,not working,no,Home,<8
+25-29,rural,primary,bathepu,poorest,not working,no,Hospital/other facility,<8
+25-29,rural,primary,basotho,poorest,not working,no,Hospital/other facility,<8
+30-34,rural,primary,basotho,poorest,not working,no,Home,<8
+25-29,rural,secondary,basotho,poorest,not working,no,Hospital/other facility,<8
+25-29,rural,secondary,basotho,poorest,not working,no,Hospital/other facility,<8
+35-39,rural,primary,basotho,poorest,not working,no,Hospital/other facility,<8
+20-24,rural,primary,basotho,poorest,not working,no,Hospital/other facility,<8
+20-24,rural,secondary,basotho,poorest,not working,no,Hospital/other facility,<8
+20-24,rural,secondary,basotho,poorest,not working,yes,Hospital/other facility,<8
+15-19,rural,secondary,basotho,poorest,not working,no,Hospital/other facility,<8
+20-24,rural,secondary,basotho,poorer,not working,no,Hospital/other facility,<8
+20-24,rural,primary,basotho,poorer,not working,no,Hospital/other facility,<8
+15-19,rural,secondary,basotho,richer,not working,no,Hospital/other facility,8/more
+20-24,rural,secondary,basotho,middle,not working,no,Hospital/other facility,<8
+25-29,rural,primary,basotho,poorer,not working,no,Hospital/other facility,<8
+15-19,rural,secondary,basotho,middle,not working,yes,Hospital/other facility,<8
+25-29,rural,primary,basotho,poorer,not working,no,Hospital/other facility,<8
+30-34,rural,secondary,basotho,middle,not working,no,Hospital/other facility,<8
+20-24,rural,secondary,basotho,richer,not working,no,Hospital/other facility,8/more
+25-29,rural,secondary,basotho,richer,not working,no,Hospital/other facility,<8
+15-19,rural,primary,basotho,poorest,not working,yes,Hospital/other facility,<8
+20-24,rural,secondary,basotho,poorest,not working,no,Hospital/other facility,<8
+30-34,rural,primary,basotho,poorest,not working,no,Home,8/more
+35-39,rural,primary,basotho,poorest,not working,no,Hospital/other facility,<8
+15-19,rural,primary,basotho,poorest,not working,no,Hospital/other facility,<8
+30-34,rural,secondary,basotho,poorest,not working,no,Hospital/other facility,<8
+35-39,rural,primary,basotho,poorest,not working,no,Home,<8
+35-39,rural,primary,basotho,poorest,not working,no,Hospital/other facility,8/more
+15-19,rural,primary,basotho,poorest,not working,no,Hospital/other facility,<8
+35-39,rural,primary,basotho,poorest,not working,no,Home,<8
+45-49,rural,primary,basotho,poorest,not working,no,Home,<8
+20-24,rural,primary,basotho,poorest,not working,no,Hospital/other facility,<8
+20-24,rural,secondary,basotho,poorest,not working,no,Hospital/other facility,8/more
+20-24,rural,primary,basotho,poorest,not working,yes,Hospital/other facility,<8
+35-39,rural,secondary,basotho,poorest,professional/technical/managerial,no,Hospital/other facility,<8
+25-29,rural,secondary,basotho,poorest,not working,no,Hospital/other facility,<8
+15-19,rural,primary,basotho,poorest,not working,no,Hospital/other facility,<8
+20-24,rural,primary,basotho,poorest,not working,no,Hospital/other facility,<8
+25-29,rural,primary,basotho,poorest,not working,no,Hospital/other facility,<8
+30-34,rural,primary,basotho,poorest,not working,no,Hospital/other facility,<8
+25-29,rural,primary,basotho,poorest,not working,yes,Hospital/other facility,<8
+35-39,rural,primary,basotho,poorest,not working,no,Hospital/other facility,<8
+25-29,rural,secondary,basotho,poorest,not working,no,Hospital/other facility,8/more
+40-44,rural,primary,basotho,poorer,not working,no,Hospital/other facility,<8
+20-24,rural,primary,basotho,poorest,not working,no,Hospital/other facility,<8
+25-29,rural,no education,basotho,poorest,not working,no,Hospital/other facility,<8
+25-29,rural,primary,basotho,poorest,not working,no,Hospital/other facility,<8
+20-24,rural,secondary,basotho,poorest,not working,no,Hospital/other facility,<8
+20-24,rural,secondary,basotho,poorest,not working,yes,Hospital/other facility,<8
+25-29,rural,primary,basotho,poorest,not working,no,Hospital/other facility,<8
+25-29,rural,primary,basotho,poorest,not working,no,Hospital/other facility,8/more
+20-24,rural,primary,basotho,poorest,not working,no,Hospital/other facility,<8
+30-34,rural,primary,basotho,poorest,not working,no,Hospital/other facility,<8
+20-24,rural,primary,basotho,poorest,not working,yes,Hospital/other facility,<8
+25-29,rural,secondary,basotho,richer,not working,yes,Hospital/other facility,<8
+20-24,rural,secondary,basotho,poorer,not working,no,Hospital/other facility,<8
+15-19,rural,primary,basotho,poorest,not working,no,Hospital/other facility,<8
+20-24,rural,primary,basotho,poorest,not working,no,Hospital/other facility,8/more
+30-34,rural,primary,basotho,poorest,not working,no,Hospital/other facility,<8
+40-44,rural,primary,basotho,poorest,unskilled manual,yes,Hospital/other facility,8/more
+40-44,rural,primary,basotho,poorest,not working,no,Hospital/other facility,<8
+35-39,rural,secondary,basotho,poorest,not working,yes,Hospital/other facility,<8
+30-34,rural,primary,basotho,poorest,not working,no,Home,<8
+20-24,rural,primary,basotho,poorest,not working,no,Hospital/other facility,8/more
+25-29,rural,primary,basotho,poorest,not working,no,Hospital/other facility,<8
+30-34,rural,higher,basotho,poorer,not working,no,Hospital/other facility,<8
+20-24,rural,secondary,basotho,poorer,not working,yes,Hospital/other facility,<8
+25-29,rural,primary,basotho,poorest,not working,no,Hospital/other facility,<8
+40-44,rural,secondary,basotho,poorest,not working,no,Hospital/other facility,8/more
+20-24,rural,primary,bathepu,poorest,not working,no,Hospital/other facility,8/more
+15-19,rural,secondary,basotho,poorest,not working,no,Hospital/other facility,<8
+25-29,rural,no education,basotho,poorest,not working,no,Home,<8
+15-19,rural,primary,basotho,poorest,not working,yes,Hospital/other facility,<8
+35-39,rural,secondary,bathepu,poorest,not working,no,Hospital/other facility,<8
+20-24,rural,primary,maxhoza,poorest,not working,no,Hospital/other facility,<8
+35-39,rural,primary,basotho,poorest,not working,yes,Hospital/other facility,<8
+25-29,rural,secondary,bathepu,poorest,not working,no,Home,<8
+25-29,rural,primary,basotho,poorest,not working,no,Hospital/other facility,<8
+40-44,urban,secondary,basotho,richest,not working,yes,Hospital/other facility,<8
+20-24,urban,secondary,basotho,poorer,not working,no,Hospital/other facility,<8
+25-29,urban,secondary,basotho,poorer,unskilled manual,no,Hospital/other facility,8/more
+35-39,urban,secondary,basotho,middle,not working,yes,Hospital/other facility,<8
+30-34,urban,secondary,basotho,richer,not working,yes,Hospital/other facility,<8
+25-29,urban,secondary,basotho,middle,unskilled manual,no,Hospital/other facility,<8
+25-29,urban,higher,basotho,richer,sales,no,Hospital/other facility,<8
+35-39,urban,primary,basotho,poorest,not working,no,Hospital/other facility,<8
+25-29,urban,higher,basotho,poorest,not working,no,Hospital/other facility,<8
+20-24,urban,secondary,basotho,richer,not working,no,Hospital/other facility,8/more
+25-29,urban,secondary,basotho,poorest,not working,yes,Hospital/other facility,<8
+15-19,urban,secondary,basotho,richer,not working,yes,Hospital/other facility,<8
+20-24,urban,secondary,basotho,richest,not working,no,Hospital/other facility,<8
+35-39,urban,secondary,basotho,middle,not working,no,Hospital/other facility,<8
+15-19,urban,secondary,basotho,middle,not working,no,Hospital/other facility,<8
+25-29,urban,secondary,basotho,richer,sales,no,Hospital/other facility,8/more
+20-24,urban,secondary,basotho,richer,not working,no,Hospital/other facility,<8
+30-34,urban,primary,basotho,middle,unskilled manual,no,Hospital/other facility,<8
+20-24,urban,secondary,basotho,middle,unskilled manual,no,Hospital/other facility,<8
+20-24,urban,secondary,basotho,middle,not working,no,Hospital/other facility,<8
+20-24,urban,primary,basotho,poorest,not working,yes,Hospital/other facility,8/more
+20-24,urban,secondary,basotho,richer,not working,no,Hospital/other facility,<8
